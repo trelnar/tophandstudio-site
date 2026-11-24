@@ -1,0 +1,164 @@
+{
+  "artwork": "Green dumpster",
+  "url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-greendumpster40x40",
+  "currency": "USD",
+  "scope": "Partial base-price calculations for available print sizes. No optional finish/frame, coupon, shipping or tax. Not a complete retail price matrix.",
+  "media": [
+    {
+      "name": "High Gloss MetalPrint",
+      "medium_id": "16942",
+      "sizes": [
+        {
+          "size_inches": "4x4",
+          "base_price_usd": 38.5
+        },
+        {
+          "size_inches": "5x5",
+          "base_price_usd": 56.0
+        },
+        {
+          "size_inches": "6x6",
+          "base_price_usd": 59.5
+        },
+        {
+          "size_inches": "7x7",
+          "base_price_usd": 71.0
+        },
+        {
+          "size_inches": "8x8",
+          "base_price_usd": 59.5
+        },
+        {
+          "size_inches": "9x9",
+          "base_price_usd": 71.0
+        },
+        {
+          "size_inches": "10x10",
+          "base_price_usd": 94.5
+        },
+        {
+          "size_inches": "11x11",
+          "base_price_usd": 106.0
+        },
+        {
+          "size_inches": "12x12",
+          "base_price_usd": 101.5
+        },
+        {
+          "size_inches": "13x13",
+          "base_price_usd": 161.0
+        },
+        {
+          "size_inches": "14x14",
+          "base_price_usd": 171.5
+        },
+        {
+          "size_inches": "15x15",
+          "base_price_usd": 179.0
+        },
+        {
+          "size_inches": "16x16",
+          "base_price_usd": 143.5
+        },
+        {
+          "size_inches": "17x17",
+          "base_price_usd": 221.0
+        },
+        {
+          "size_inches": "18x18",
+          "base_price_usd": 230.0
+        },
+        {
+          "size_inches": "19x19",
+          "base_price_usd": 316.0
+        },
+        {
+          "size_inches": "20x20",
+          "base_price_usd": 311.5
+        },
+        {
+          "size_inches": "21x21",
+          "base_price_usd": 314.0
+        },
+        {
+          "size_inches": "22x22",
+          "base_price_usd": 332.0
+        },
+        {
+          "size_inches": "23x23",
+          "base_price_usd": 380.0
+        },
+        {
+          "size_inches": "24x24",
+          "base_price_usd": 455.0
+        },
+        {
+          "size_inches": "25x25",
+          "base_price_usd": 437.5
+        },
+        {
+          "size_inches": "26x26",
+          "base_price_usd": 575.0
+        },
+        {
+          "size_inches": "27x27",
+          "base_price_usd": 620.0
+        },
+        {
+          "size_inches": "28x28",
+          "base_price_usd": 686.0
+        },
+        {
+          "size_inches": "29x29",
+          "base_price_usd": 715.0
+        },
+        {
+          "size_inches": "30x30",
+          "base_price_usd": 752.5
+        },
+        {
+          "size_inches": "31x31",
+          "base_price_usd": 841.0
+        },
+        {
+          "size_inches": "32x32",
+          "base_price_usd": 896.0
+        },
+        {
+          "size_inches": "33x33",
+          "base_price_usd": 953.0
+        },
+        {
+          "size_inches": "34x34",
+          "base_price_usd": 1011.5
+        },
+        {
+          "size_inches": "35x35",
+          "base_price_usd": 1072.0
+        },
+        {
+          "size_inches": "36x36",
+          "base_price_usd": 955.5
+        },
+        {
+          "size_inches": "37x37",
+          "base_price_usd": 1171.0
+        },
+        {
+          "size_inches": "38x38",
+          "base_price_usd": 1162.0
+        },
+        {
+          "size_inches": "39x39",
+          "base_price_usd": 1224.0
+        },
+        {
+          "size_inches": "40x40",
+          "base_price_usd": 1312.5
+        }
+      ]
+    }
+  ],
+  "error": "429 Client Error: Too Many Requests for url: https://www.tophandstudio.com/user_site/art_print_products/update_price",
+  "status": "INCOMPLETE \u2014 ASF returned HTTP 429; base calculations are unvalidated and exclude finishing. Do not publish as retail prices."
+}

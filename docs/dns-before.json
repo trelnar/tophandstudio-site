@@ -1,0 +1,11 @@
+{
+  "checked_on": "2026-11-02",
+  "note": "Public DNS snapshot only; registrar forwarding configuration must be recorded by Kevin before cutover.",
+  "records": {
+    "www.tophandstudio.com CNAME": "www.tophandstudio.com.\t1569\tIN\tCNAME\twww.artstorefronts.com.",
+    "tophandstudio.com A": "tophandstudio.com.\t3600\tIN\tA\t15.197.225.128\ntophandstudio.com.\t3600\tIN\tA\t3.33.251.168",
+    "tophandstudio.com AAAA": "",
+    "tophandstudio.com NS": "tophandstudio.com.\t3600\tIN\tNS\tns26.domaincontrol.com.\ntophandstudio.com.\t3600\tIN\tNS\tns25.domaincontrol.com.",
+    "tophandstudio.com CAA": ""
+  }
+}

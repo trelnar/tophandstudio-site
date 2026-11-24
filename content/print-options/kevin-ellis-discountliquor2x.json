@@ -1,0 +1,9 @@
+{
+  "artwork": "Discount Liquor",
+  "url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-discountliquor2x",
+  "currency": "USD",
+  "scope": "Partial base-price calculations for available print sizes. No optional finish/frame, coupon, shipping or tax. Not a complete retail price matrix.",
+  "media": [],
+  "error": "429 Client Error: Too Many Requests for url: https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-discountliquor2x",
+  "status": "INCOMPLETE \u2014 ASF returned HTTP 429; base calculations are unvalidated and exclude finishing. Do not publish as retail prices."
+}

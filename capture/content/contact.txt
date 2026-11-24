@@ -1,0 +1,10 @@
+Contact
+
+Thank you for your interest in my art! Please fill out the form below, and I'll get back to you shortly!
+
+Name
+Email
+Message
+
+ = required
+

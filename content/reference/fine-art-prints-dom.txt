@@ -1,0 +1,337 @@
+- generic "Consent Preferences":
+  - button "Consent Preferences":
+    - img "Revisit consent button"
+- navigation:
+  - list:
+    - link:
+      - /url: https://www.tophandstudio.com/fine-art-prints
+    - link "account 0":
+      - /url: "#"
+      - img "account"
+      - generic: "0"
+    - link:
+      - /url: "#"
+- navigation:
+  - generic: ×
+  - list:
+    - textbox "Search..."
+    - text: Search...
+    - link "Shop Prints":
+      - /url: https://www.tophandstudio.com/shop-art
+    - link "About The Artist":
+      - /url: https://www.tophandstudio.com/about-the-artist
+    - link "Contact":
+      - /url: https://www.tophandstudio.com/contact
+    - link "FAQ":
+      - /url: https://www.tophandstudio.com/faq
+    - list
+- generic: Filter by
+- link "Clear All (0)":
+  - /url: "#"
+  - text: Clear All
+  - generic: (0)
+- generic: Colors
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- radio
+- generic: Mediums
+- checkbox "1/4\" Acrylic"
+- paragraph: 1/4" Acrylic
+- checkbox "Canvas Gallery Wraps"
+- paragraph: Canvas Gallery Wraps
+- checkbox "Fuji Matte Photo Paper"
+- paragraph: Fuji Matte Photo Paper
+- checkbox "Glossy Metallic Fine Art Paper OLD"
+- paragraph: Glossy Metallic Fine Art Paper OLD
+- checkbox "High Gloss MetalPrint"
+- paragraph: High Gloss MetalPrint
+- checkbox "Hoodies (No-Zip/Pullover)"
+- paragraph: Hoodies (No-Zip/Pullover)
+- link "Show More":
+  - /url: "#"
+  - generic: Show More
+- img "Icon"
+- text: Open filters
+- heading "Fine Art Prints" [level=1]
+- link "Parking Art | Top Hand Studio parking from $43.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/parking?product_gallery=322825&product_id=7912653
+  - img "Parking Art | Top Hand Studio"
+  - generic: parking
+  - generic: from
+  - generic: $43.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "Flat Top Art | Top Hand Studio Flat Top from $51.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/falttop-final?product_gallery=322825&product_id=7869990
+  - img "Flat Top Art | Top Hand Studio"
+  - generic: Flat Top
+  - generic: from
+  - generic: $51.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "Southwest Art | Top Hand Studio Southwest from $42.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/southwest?product_gallery=322825&product_id=6622153
+  - img "Southwest Art | Top Hand Studio"
+  - generic: Southwest
+  - generic: from
+  - generic: $42.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "Taxico Art | Top Hand Studio Taxico from $42.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/taxico?product_gallery=322825&product_id=6622140
+  - img "Taxico Art | Top Hand Studio"
+  - generic: Taxico
+  - generic: from
+  - generic: $42.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "December Art | Top Hand Studio December from $43.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/december?product_gallery=322825&product_id=6613554
+  - img "December Art | Top Hand Studio"
+  - generic: December
+  - generic: from
+  - generic: $43.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "Red Truck Art | Top Hand Studio Red Truck from $42.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/kevin-ellis-redtruck4x?product_gallery=322825&product_id=6601222
+  - img "Red Truck Art | Top Hand Studio"
+  - generic: Red Truck
+  - generic: from
+  - generic: $42.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "Lanie Art | Top Hand Studio Lanie from $42.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/lanie?product_gallery=322825&product_id=6622148
+  - img "Lanie Art | Top Hand Studio"
+  - generic: Lanie
+  - generic: from
+  - generic: $42.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "Larkey Art | Top Hand Studio Larkey from $42.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/larkey?product_gallery=322825&product_id=6618525
+  - img "Larkey Art | Top Hand Studio"
+  - generic: Larkey
+  - generic: from
+  - generic: $42.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "36th & Spenard Art | Top Hand Studio 36th & Spenard from $43.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/36th-spenard?product_gallery=322825&product_id=6621919
+  - img "36th & Spenard Art | Top Hand Studio"
+  - generic: 36th & Spenard
+  - generic: from
+  - generic: $43.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "International Art | Top Hand Studio International from $43.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/international?product_gallery=322825&product_id=6613613
+  - img "International Art | Top Hand Studio"
+  - generic: International
+  - generic: from
+  - generic: $43.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "White Van Art | Top Hand Studio White Van from $43.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/white-van?product_gallery=322825&product_id=6622154
+  - img "White Van Art | Top Hand Studio"
+  - generic: White Van
+  - generic: from
+  - generic: $43.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "White Moose Art | Top Hand Studio White Moose from $42.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/whitemoose?product_gallery=322825&product_id=6606889
+  - img "White Moose Art | Top Hand Studio"
+  - generic: White Moose
+  - generic: from
+  - generic: $42.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "K Street Art | Top Hand Studio K Street from $42.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/kstreet?product_gallery=322825&product_id=6606886
+  - img "K Street Art | Top Hand Studio"
+  - generic: K Street
+  - generic: from
+  - generic: $42.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "Denali Art | Top Hand Studio Denali from $43.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/denali?product_gallery=322825&product_id=6613567
+  - img "Denali Art | Top Hand Studio"
+  - generic: Denali
+  - generic: from
+  - generic: $43.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- link "Dusk Art | Top Hand Studio Dusk from $42.00":
+  - /url: /warehouse-open-edition-prints/art_print_products/dusk?product_gallery=322825&product_id=6613570
+  - img "Dusk Art | Top Hand Studio"
+  - generic: Dusk
+  - generic: from
+  - generic: $42.00
+- generic: Saved to favorites
+- generic: Removed from favorites
+- navigation "Pagination"
+- img "Trusted Art Seller"
+- heading "Trusted Art Seller" [level=2]
+- paragraph:
+  - text: The presence of this badge signifies that this business has officially registered with the
+  - link "Art Storefronts Organization":
+    - /url: http://www.artstorefronts.com/?utm_campaign=kevinellis&utm_source=trust%20badges&utm_medium=trust&utm_term=trusted-art-seller&utm_content=17749
+  - text: and has an established track record of selling art.
+- paragraph:
+  - text: It also means that buyers can trust that they are buying from a legitimate business. Art sellers that conduct fraudulent activity or that receive numerous complaints from buyers will have this badge revoked. If you would like to file a complaint about this seller,
+  - link "please do so here":
+    - /url: https://www.artstorefronts.com/contact
+  - text: .
+- img "Verified Secure Website with Safe Checkout"
+- heading "Verified Secure Website with Safe Checkout" [level=2]
+- paragraph: This website provides a secure checkout with SSL encryption.
+- paragraph: Info
+- list:
+  - listitem: © Copyright 2023
+  - listitem: All Rights Reserved
+  - listitem: Top Hand Studio
+  - listitem: Seattle, WA 98102
+- paragraph: Contact
+- list:
+  - link "Contact Form":
+    - /url: /contact
+- paragraph: Resources
+- list:
+  - link "About the artist":
+    - /url: /about-the-artist
+- paragraph: Stay Updated
+- list:
+  - link "Facebook":
+    - /url: https://www.facebook.com/TopHandStudio
+  - link "Instagram":
+    - /url: https://www.instagram.com/tophand_studio/
+- paragraph: News
+- list:
+  - textbox "Email"
+  - button "Sign Up"
+  - paragraph: I’d like to receive exclusive discounts and the latest information
+- text: 
+- paragraph: This is only visible to you because you are logged in and are authorized to manage this website. This message is not visible to other website visitors.
+- generic: 
+- text: 

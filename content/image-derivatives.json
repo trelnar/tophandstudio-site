@@ -1,0 +1,686 @@
+{
+  "spill-bound": [
+    {
+      "width": 480,
+      "height": 362,
+      "jpg": "assets/images/spill-bound-480.jpg",
+      "webp": "assets/images/spill-bound-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 603,
+      "jpg": "assets/images/spill-bound-800.jpg",
+      "webp": "assets/images/spill-bound-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 754,
+      "jpg": "assets/images/spill-bound-1000.jpg",
+      "webp": "assets/images/spill-bound-1000.webp"
+    }
+  ],
+  "green-dumpster": [
+    {
+      "width": 480,
+      "height": 480,
+      "jpg": "assets/images/green-dumpster-480.jpg",
+      "webp": "assets/images/green-dumpster-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "jpg": "assets/images/green-dumpster-800.jpg",
+      "webp": "assets/images/green-dumpster-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 1000,
+      "jpg": "assets/images/green-dumpster-1000.jpg",
+      "webp": "assets/images/green-dumpster-1000.webp"
+    }
+  ],
+  "west-27th": [
+    {
+      "width": 480,
+      "height": 360,
+      "jpg": "assets/images/west-27th-480.jpg",
+      "webp": "assets/images/west-27th-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "jpg": "assets/images/west-27th-800.jpg",
+      "webp": "assets/images/west-27th-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 750,
+      "jpg": "assets/images/west-27th-1000.jpg",
+      "webp": "assets/images/west-27th-1000.webp"
+    }
+  ],
+  "discount-liquor": [
+    {
+      "width": 480,
+      "height": 360,
+      "jpg": "assets/images/discount-liquor-480.jpg",
+      "webp": "assets/images/discount-liquor-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "jpg": "assets/images/discount-liquor-800.jpg",
+      "webp": "assets/images/discount-liquor-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 750,
+      "jpg": "assets/images/discount-liquor-1000.jpg",
+      "webp": "assets/images/discount-liquor-1000.webp"
+    }
+  ],
+  "red-truck": [
+    {
+      "width": 480,
+      "height": 348,
+      "jpg": "assets/images/red-truck-480.jpg",
+      "webp": "assets/images/red-truck-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 580,
+      "jpg": "assets/images/red-truck-800.jpg",
+      "webp": "assets/images/red-truck-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 725,
+      "jpg": "assets/images/red-truck-1000.jpg",
+      "webp": "assets/images/red-truck-1000.webp"
+    }
+  ],
+  "commute": [
+    {
+      "width": 480,
+      "height": 383,
+      "jpg": "assets/images/commute-480.jpg",
+      "webp": "assets/images/commute-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 638,
+      "jpg": "assets/images/commute-800.jpg",
+      "webp": "assets/images/commute-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 798,
+      "jpg": "assets/images/commute-1000.jpg",
+      "webp": "assets/images/commute-1000.webp"
+    }
+  ],
+  "tnt": [
+    {
+      "width": 480,
+      "height": 359,
+      "jpg": "assets/images/tnt-480.jpg",
+      "webp": "assets/images/tnt-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 598,
+      "jpg": "assets/images/tnt-800.jpg",
+      "webp": "assets/images/tnt-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 747,
+      "jpg": "assets/images/tnt-1000.jpg",
+      "webp": "assets/images/tnt-1000.webp"
+    }
+  ],
+  "cold-snap": [
+    {
+      "width": 480,
+      "height": 360,
+      "jpg": "assets/images/cold-snap-480.jpg",
+      "webp": "assets/images/cold-snap-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 601,
+      "jpg": "assets/images/cold-snap-800.jpg",
+      "webp": "assets/images/cold-snap-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 751,
+      "jpg": "assets/images/cold-snap-1000.jpg",
+      "webp": "assets/images/cold-snap-1000.webp"
+    }
+  ],
+  "k-street": [
+    {
+      "width": 480,
+      "height": 641,
+      "jpg": "assets/images/k-street-480.jpg",
+      "webp": "assets/images/k-street-480.webp"
+    },
+    {
+      "width": 749,
+      "height": 1000,
+      "jpg": "assets/images/k-street-749.jpg",
+      "webp": "assets/images/k-street-749.webp"
+    }
+  ],
+  "white-moose": [
+    {
+      "width": 480,
+      "height": 361,
+      "jpg": "assets/images/white-moose-480.jpg",
+      "webp": "assets/images/white-moose-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 602,
+      "jpg": "assets/images/white-moose-800.jpg",
+      "webp": "assets/images/white-moose-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 753,
+      "jpg": "assets/images/white-moose-1000.jpg",
+      "webp": "assets/images/white-moose-1000.webp"
+    }
+  ],
+  "break-up": [
+    {
+      "width": 480,
+      "height": 336,
+      "jpg": "assets/images/break-up-480.jpg",
+      "webp": "assets/images/break-up-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 560,
+      "jpg": "assets/images/break-up-800.jpg",
+      "webp": "assets/images/break-up-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 700,
+      "jpg": "assets/images/break-up-1000.jpg",
+      "webp": "assets/images/break-up-1000.webp"
+    }
+  ],
+  "december": [
+    {
+      "width": 480,
+      "height": 600,
+      "jpg": "assets/images/december-480.jpg",
+      "webp": "assets/images/december-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 1000,
+      "jpg": "assets/images/december-800.jpg",
+      "webp": "assets/images/december-800.webp"
+    }
+  ],
+  "heading-out": [
+    {
+      "width": 480,
+      "height": 343,
+      "jpg": "assets/images/heading-out-480.jpg",
+      "webp": "assets/images/heading-out-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 571,
+      "jpg": "assets/images/heading-out-800.jpg",
+      "webp": "assets/images/heading-out-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 714,
+      "jpg": "assets/images/heading-out-1000.jpg",
+      "webp": "assets/images/heading-out-1000.webp"
+    }
+  ],
+  "denali": [
+    {
+      "width": 480,
+      "height": 600,
+      "jpg": "assets/images/denali-480.jpg",
+      "webp": "assets/images/denali-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 1000,
+      "jpg": "assets/images/denali-800.jpg",
+      "webp": "assets/images/denali-800.webp"
+    }
+  ],
+  "heading-back": [
+    {
+      "width": 480,
+      "height": 384,
+      "jpg": "assets/images/heading-back-480.jpg",
+      "webp": "assets/images/heading-back-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 640,
+      "jpg": "assets/images/heading-back-800.jpg",
+      "webp": "assets/images/heading-back-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 800,
+      "jpg": "assets/images/heading-back-1000.jpg",
+      "webp": "assets/images/heading-back-1000.webp"
+    }
+  ],
+  "disabled": [
+    {
+      "width": 480,
+      "height": 360,
+      "jpg": "assets/images/disabled-480.jpg",
+      "webp": "assets/images/disabled-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "jpg": "assets/images/disabled-800.jpg",
+      "webp": "assets/images/disabled-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 750,
+      "jpg": "assets/images/disabled-1000.jpg",
+      "webp": "assets/images/disabled-1000.webp"
+    }
+  ],
+  "dusk": [
+    {
+      "width": 480,
+      "height": 360,
+      "jpg": "assets/images/dusk-480.jpg",
+      "webp": "assets/images/dusk-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "jpg": "assets/images/dusk-800.jpg",
+      "webp": "assets/images/dusk-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 750,
+      "jpg": "assets/images/dusk-1000.jpg",
+      "webp": "assets/images/dusk-1000.webp"
+    }
+  ],
+  "drug-free-zone": [
+    {
+      "width": 480,
+      "height": 600,
+      "jpg": "assets/images/drug-free-zone-480.jpg",
+      "webp": "assets/images/drug-free-zone-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 1000,
+      "jpg": "assets/images/drug-free-zone-800.jpg",
+      "webp": "assets/images/drug-free-zone-800.webp"
+    }
+  ],
+  "black-ford": [
+    {
+      "width": 480,
+      "height": 362,
+      "jpg": "assets/images/black-ford-480.jpg",
+      "webp": "assets/images/black-ford-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 603,
+      "jpg": "assets/images/black-ford-800.jpg",
+      "webp": "assets/images/black-ford-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 754,
+      "jpg": "assets/images/black-ford-1000.jpg",
+      "webp": "assets/images/black-ford-1000.webp"
+    }
+  ],
+  "international": [
+    {
+      "width": 480,
+      "height": 384,
+      "jpg": "assets/images/international-480.jpg",
+      "webp": "assets/images/international-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 640,
+      "jpg": "assets/images/international-800.jpg",
+      "webp": "assets/images/international-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 800,
+      "jpg": "assets/images/international-1000.jpg",
+      "webp": "assets/images/international-1000.webp"
+    }
+  ],
+  "hermann": [
+    {
+      "width": 480,
+      "height": 360,
+      "jpg": "assets/images/hermann-480.jpg",
+      "webp": "assets/images/hermann-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "jpg": "assets/images/hermann-800.jpg",
+      "webp": "assets/images/hermann-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 750,
+      "jpg": "assets/images/hermann-1000.jpg",
+      "webp": "assets/images/hermann-1000.webp"
+    }
+  ],
+  "icefog": [
+    {
+      "width": 480,
+      "height": 384,
+      "jpg": "assets/images/icefog-480.jpg",
+      "webp": "assets/images/icefog-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 640,
+      "jpg": "assets/images/icefog-800.jpg",
+      "webp": "assets/images/icefog-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 800,
+      "jpg": "assets/images/icefog-1000.jpg",
+      "webp": "assets/images/icefog-1000.webp"
+    }
+  ],
+  "keyboard": [
+    {
+      "width": 480,
+      "height": 640,
+      "jpg": "assets/images/keyboard-480.jpg",
+      "webp": "assets/images/keyboard-480.webp"
+    },
+    {
+      "width": 750,
+      "height": 1000,
+      "jpg": "assets/images/keyboard-750.jpg",
+      "webp": "assets/images/keyboard-750.webp"
+    }
+  ],
+  "larkey": [
+    {
+      "width": 480,
+      "height": 360,
+      "jpg": "assets/images/larkey-480.jpg",
+      "webp": "assets/images/larkey-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "jpg": "assets/images/larkey-800.jpg",
+      "webp": "assets/images/larkey-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 750,
+      "jpg": "assets/images/larkey-1000.jpg",
+      "webp": "assets/images/larkey-1000.webp"
+    }
+  ],
+  "wrong-way": [
+    {
+      "width": 480,
+      "height": 360,
+      "jpg": "assets/images/wrong-way-480.jpg",
+      "webp": "assets/images/wrong-way-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "jpg": "assets/images/wrong-way-800.jpg",
+      "webp": "assets/images/wrong-way-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 750,
+      "jpg": "assets/images/wrong-way-1000.jpg",
+      "webp": "assets/images/wrong-way-1000.webp"
+    }
+  ],
+  "36th-spenard": [
+    {
+      "width": 480,
+      "height": 384,
+      "jpg": "assets/images/36th-spenard-480.jpg",
+      "webp": "assets/images/36th-spenard-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 640,
+      "jpg": "assets/images/36th-spenard-800.jpg",
+      "webp": "assets/images/36th-spenard-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 800,
+      "jpg": "assets/images/36th-spenard-1000.jpg",
+      "webp": "assets/images/36th-spenard-1000.webp"
+    }
+  ],
+  "chugach": [
+    {
+      "width": 480,
+      "height": 320,
+      "jpg": "assets/images/chugach-480.jpg",
+      "webp": "assets/images/chugach-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 534,
+      "jpg": "assets/images/chugach-800.jpg",
+      "webp": "assets/images/chugach-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 667,
+      "jpg": "assets/images/chugach-1000.jpg",
+      "webp": "assets/images/chugach-1000.webp"
+    }
+  ],
+  "taxico": [
+    {
+      "width": 480,
+      "height": 360,
+      "jpg": "assets/images/taxico-480.jpg",
+      "webp": "assets/images/taxico-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "jpg": "assets/images/taxico-800.jpg",
+      "webp": "assets/images/taxico-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 750,
+      "jpg": "assets/images/taxico-1000.jpg",
+      "webp": "assets/images/taxico-1000.webp"
+    }
+  ],
+  "lanie": [
+    {
+      "width": 480,
+      "height": 640,
+      "jpg": "assets/images/lanie-480.jpg",
+      "webp": "assets/images/lanie-480.webp"
+    },
+    {
+      "width": 750,
+      "height": 1000,
+      "jpg": "assets/images/lanie-750.jpg",
+      "webp": "assets/images/lanie-750.webp"
+    }
+  ],
+  "norge": [
+    {
+      "width": 480,
+      "height": 361,
+      "jpg": "assets/images/norge-480.jpg",
+      "webp": "assets/images/norge-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 602,
+      "jpg": "assets/images/norge-800.jpg",
+      "webp": "assets/images/norge-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 752,
+      "jpg": "assets/images/norge-1000.jpg",
+      "webp": "assets/images/norge-1000.webp"
+    }
+  ],
+  "westward": [
+    {
+      "width": 480,
+      "height": 373,
+      "jpg": "assets/images/westward-480.jpg",
+      "webp": "assets/images/westward-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 622,
+      "jpg": "assets/images/westward-800.jpg",
+      "webp": "assets/images/westward-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 778,
+      "jpg": "assets/images/westward-1000.jpg",
+      "webp": "assets/images/westward-1000.webp"
+    }
+  ],
+  "southwest": [
+    {
+      "width": 480,
+      "height": 360,
+      "jpg": "assets/images/southwest-480.jpg",
+      "webp": "assets/images/southwest-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "jpg": "assets/images/southwest-800.jpg",
+      "webp": "assets/images/southwest-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 750,
+      "jpg": "assets/images/southwest-1000.jpg",
+      "webp": "assets/images/southwest-1000.webp"
+    }
+  ],
+  "white-van": [
+    {
+      "width": 480,
+      "height": 380,
+      "jpg": "assets/images/white-van-480.jpg",
+      "webp": "assets/images/white-van-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 634,
+      "jpg": "assets/images/white-van-800.jpg",
+      "webp": "assets/images/white-van-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 792,
+      "jpg": "assets/images/white-van-1000.jpg",
+      "webp": "assets/images/white-van-1000.webp"
+    }
+  ],
+  "flat-top": [
+    {
+      "width": 480,
+      "height": 288,
+      "jpg": "assets/images/flat-top-480.jpg",
+      "webp": "assets/images/flat-top-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 480,
+      "jpg": "assets/images/flat-top-800.jpg",
+      "webp": "assets/images/flat-top-800.webp"
+    },
+    {
+      "width": 1000,
+      "height": 600,
+      "jpg": "assets/images/flat-top-1000.jpg",
+      "webp": "assets/images/flat-top-1000.webp"
+    }
+  ],
+  "parking": [
+    {
+      "width": 480,
+      "height": 599,
+      "jpg": "assets/images/parking-480.jpg",
+      "webp": "assets/images/parking-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 999,
+      "jpg": "assets/images/parking-800.jpg",
+      "webp": "assets/images/parking-800.webp"
+    },
+    {
+      "width": 801,
+      "height": 1000,
+      "jpg": "assets/images/parking-801.jpg",
+      "webp": "assets/images/parking-801.webp"
+    }
+  ],
+  "kevin-ellis": [
+    {
+      "width": 480,
+      "height": 360,
+      "jpg": "assets/images/kevin-ellis-480.jpg",
+      "webp": "assets/images/kevin-ellis-480.webp"
+    },
+    {
+      "width": 800,
+      "height": 601,
+      "jpg": "assets/images/kevin-ellis-800.jpg",
+      "webp": "assets/images/kevin-ellis-800.webp"
+    },
+    {
+      "width": 1200,
+      "height": 901,
+      "jpg": "assets/images/kevin-ellis-1200.jpg",
+      "webp": "assets/images/kevin-ellis-1200.webp"
+    }
+  ]
+}

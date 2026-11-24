@@ -1,0 +1,872 @@
+[
+  {
+    "old_url": "https://www.tophandstudio.com/",
+    "new_path": "/index.html",
+    "kind": "same homepage"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/?products=1",
+    "new_path": "/index.html",
+    "kind": "same homepage"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/?products=2",
+    "new_path": "/index.html",
+    "kind": "same homepage"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/?products=3",
+    "new_path": "/index.html",
+    "kind": "same homepage"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/about-the-artist",
+    "new_path": "/about.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/best-sellers",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/contact",
+    "new_path": "/contact.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/faq",
+    "new_path": "/contact.html#prints",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/fine-art-prints",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/fine-art-prints?products=1",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/fine-art-prints?products=2",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/fine-art-prints?products=3",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/newsletter-sign-up",
+    "new_path": "/contact.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/shop-art",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/36th-spenard",
+    "new_path": "/artwork/36th-spenard.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/36th-spenard#/",
+    "new_path": "/artwork/36th-spenard.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/36th-spenard#panel1",
+    "new_path": "/artwork/36th-spenard.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/36th-spenard?product_gallery=322825&product_id=6621919",
+    "new_path": "/artwork/36th-spenard.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/black-ford",
+    "new_path": "/artwork/black-ford.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/black-ford#/",
+    "new_path": "/artwork/black-ford.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/black-ford#panel1",
+    "new_path": "/artwork/black-ford.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/black-ford?product_gallery=322825&product_id=6613608",
+    "new_path": "/artwork/black-ford.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/break-up",
+    "new_path": "/artwork/break-up.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/break-up#/",
+    "new_path": "/artwork/break-up.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/break-up#panel1",
+    "new_path": "/artwork/break-up.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/break-up?product_gallery=322825&product_id=6613543",
+    "new_path": "/artwork/break-up.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/chugach",
+    "new_path": "/artwork/chugach.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/chugach#/",
+    "new_path": "/artwork/chugach.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/chugach#panel1",
+    "new_path": "/artwork/chugach.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/chugach?product_gallery=322825&product_id=6622138",
+    "new_path": "/artwork/chugach.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/coldsnap-gigapixel-hq-scale-4-00x",
+    "new_path": "/artwork/cold-snap.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/coldsnap-gigapixel-hq-scale-4-00x#/",
+    "new_path": "/artwork/cold-snap.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/coldsnap-gigapixel-hq-scale-4-00x#panel1",
+    "new_path": "/artwork/cold-snap.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/coldsnap-gigapixel-hq-scale-4-00x?product_gallery=320715&product_id=6606885",
+    "new_path": "/artwork/cold-snap.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/coldsnap-gigapixel-hq-scale-4-00x?product_gallery=322825&product_id=6606885",
+    "new_path": "/artwork/cold-snap.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/commute-gigapixel-hq-scale-6-00x",
+    "new_path": "/artwork/commute.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/commute-gigapixel-hq-scale-6-00x#/",
+    "new_path": "/artwork/commute.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/commute-gigapixel-hq-scale-6-00x#panel1",
+    "new_path": "/artwork/commute.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/commute-gigapixel-hq-scale-6-00x?product_gallery=322825&product_id=6606878",
+    "new_path": "/artwork/commute.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/december",
+    "new_path": "/artwork/december.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/december#/",
+    "new_path": "/artwork/december.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/december#panel1",
+    "new_path": "/artwork/december.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/december?product_gallery=322825&product_id=6613554",
+    "new_path": "/artwork/december.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/denali",
+    "new_path": "/artwork/denali.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/denali#/",
+    "new_path": "/artwork/denali.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/denali#panel1",
+    "new_path": "/artwork/denali.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/denali?product_gallery=322825&product_id=6613567",
+    "new_path": "/artwork/denali.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/disabled",
+    "new_path": "/artwork/disabled.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/disabled#/",
+    "new_path": "/artwork/disabled.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/disabled#panel1",
+    "new_path": "/artwork/disabled.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/disabled?product_gallery=322825&product_id=6613569",
+    "new_path": "/artwork/disabled.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/drug-free-zone",
+    "new_path": "/artwork/drug-free-zone.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/drug-free-zone#/",
+    "new_path": "/artwork/drug-free-zone.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/drug-free-zone#panel1",
+    "new_path": "/artwork/drug-free-zone.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/drug-free-zone?product_gallery=320715&product_id=6613571",
+    "new_path": "/artwork/drug-free-zone.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/drug-free-zone?product_gallery=322825&product_id=6613571",
+    "new_path": "/artwork/drug-free-zone.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/dusk",
+    "new_path": "/artwork/dusk.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/dusk#/",
+    "new_path": "/artwork/dusk.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/dusk#panel1",
+    "new_path": "/artwork/dusk.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/dusk?product_gallery=322825&product_id=6613570",
+    "new_path": "/artwork/dusk.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/falttop-final",
+    "new_path": "/artwork/flat-top.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/falttop-final#/",
+    "new_path": "/artwork/flat-top.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/falttop-final#panel1",
+    "new_path": "/artwork/flat-top.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/falttop-final?product_gallery=322825&product_id=7869990",
+    "new_path": "/artwork/flat-top.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/heading-back",
+    "new_path": "/artwork/heading-back.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/heading-back#/",
+    "new_path": "/artwork/heading-back.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/heading-back#panel1",
+    "new_path": "/artwork/heading-back.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/heading-back?product_gallery=322825&product_id=6613568",
+    "new_path": "/artwork/heading-back.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/heading-out",
+    "new_path": "/artwork/heading-out.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/heading-out#/",
+    "new_path": "/artwork/heading-out.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/heading-out#panel1",
+    "new_path": "/artwork/heading-out.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/heading-out?product_gallery=320715&product_id=6613565",
+    "new_path": "/artwork/heading-out.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/heading-out?product_gallery=322825&product_id=6613565",
+    "new_path": "/artwork/heading-out.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/hermann",
+    "new_path": "/artwork/hermann.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/hermann#/",
+    "new_path": "/artwork/hermann.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/hermann#panel1",
+    "new_path": "/artwork/hermann.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/hermann?product_gallery=322825&product_id=6613653",
+    "new_path": "/artwork/hermann.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/icefog",
+    "new_path": "/artwork/icefog.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/icefog#/",
+    "new_path": "/artwork/icefog.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/icefog#panel1",
+    "new_path": "/artwork/icefog.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/icefog?product_gallery=320715&product_id=6613670",
+    "new_path": "/artwork/icefog.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/icefog?product_gallery=322825&product_id=6613670",
+    "new_path": "/artwork/icefog.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/international",
+    "new_path": "/artwork/international.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/international#/",
+    "new_path": "/artwork/international.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/international#panel1",
+    "new_path": "/artwork/international.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/international?product_gallery=320715&product_id=6613613",
+    "new_path": "/artwork/international.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/international?product_gallery=322825&product_id=6613613",
+    "new_path": "/artwork/international.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-discountliquor2x",
+    "new_path": "/artwork/discount-liquor.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-discountliquor2x#/",
+    "new_path": "/artwork/discount-liquor.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-discountliquor2x#panel1",
+    "new_path": "/artwork/discount-liquor.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-discountliquor2x?product_gallery=320715&product_id=6601220",
+    "new_path": "/artwork/discount-liquor.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-discountliquor2x?product_gallery=322825&product_id=6601220",
+    "new_path": "/artwork/discount-liquor.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-greendumpster40x40",
+    "new_path": "/artwork/green-dumpster.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-greendumpster40x40#/",
+    "new_path": "/artwork/green-dumpster.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-greendumpster40x40#panel1",
+    "new_path": "/artwork/green-dumpster.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-greendumpster40x40?product_gallery=322825&product_id=6601205",
+    "new_path": "/artwork/green-dumpster.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-redtruck4x",
+    "new_path": "/artwork/red-truck.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-redtruck4x#/",
+    "new_path": "/artwork/red-truck.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-redtruck4x#panel1",
+    "new_path": "/artwork/red-truck.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-redtruck4x?product_gallery=322825&product_id=6601222",
+    "new_path": "/artwork/red-truck.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-spillbound",
+    "new_path": "/artwork/spill-bound.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-spillbound#/",
+    "new_path": "/artwork/spill-bound.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-spillbound#panel1",
+    "new_path": "/artwork/spill-bound.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-spillbound?product_gallery=320715&product_id=6601204",
+    "new_path": "/artwork/spill-bound.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-spillbound?product_gallery=322825&product_id=6601204",
+    "new_path": "/artwork/spill-bound.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-west27th6x",
+    "new_path": "/artwork/west-27th.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-west27th6x#/",
+    "new_path": "/artwork/west-27th.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-west27th6x#panel1",
+    "new_path": "/artwork/west-27th.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kevin-ellis-west27th6x?product_gallery=322825&product_id=6601217",
+    "new_path": "/artwork/west-27th.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/keyboard",
+    "new_path": "/artwork/keyboard.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/keyboard#/",
+    "new_path": "/artwork/keyboard.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/keyboard#panel1",
+    "new_path": "/artwork/keyboard.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/keyboard?product_gallery=322825&product_id=6613679",
+    "new_path": "/artwork/keyboard.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kstreet",
+    "new_path": "/artwork/k-street.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kstreet#/",
+    "new_path": "/artwork/k-street.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kstreet#panel1",
+    "new_path": "/artwork/k-street.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/kstreet?product_gallery=322825&product_id=6606886",
+    "new_path": "/artwork/k-street.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/lanie",
+    "new_path": "/artwork/lanie.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/lanie#/",
+    "new_path": "/artwork/lanie.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/lanie#panel1",
+    "new_path": "/artwork/lanie.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/lanie?product_gallery=322825&product_id=6622148",
+    "new_path": "/artwork/lanie.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/larkey",
+    "new_path": "/artwork/larkey.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/larkey#/",
+    "new_path": "/artwork/larkey.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/larkey#panel1",
+    "new_path": "/artwork/larkey.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/larkey?product_gallery=320715&product_id=6618525",
+    "new_path": "/artwork/larkey.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/larkey?product_gallery=322825&product_id=6618525",
+    "new_path": "/artwork/larkey.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/norge",
+    "new_path": "/artwork/norge.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/norge#/",
+    "new_path": "/artwork/norge.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/norge#panel1",
+    "new_path": "/artwork/norge.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/norge?product_gallery=322825&product_id=6622150",
+    "new_path": "/artwork/norge.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/parking",
+    "new_path": "/artwork/parking.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/parking#/",
+    "new_path": "/artwork/parking.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/parking#panel1",
+    "new_path": "/artwork/parking.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/parking?product_gallery=322825&product_id=7912653",
+    "new_path": "/artwork/parking.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/southwest",
+    "new_path": "/artwork/southwest.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/southwest#/",
+    "new_path": "/artwork/southwest.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/southwest#panel1",
+    "new_path": "/artwork/southwest.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/southwest?product_gallery=320715&product_id=6622153",
+    "new_path": "/artwork/southwest.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/southwest?product_gallery=322825&product_id=6622153",
+    "new_path": "/artwork/southwest.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/taxico",
+    "new_path": "/artwork/taxico.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/taxico#/",
+    "new_path": "/artwork/taxico.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/taxico#panel1",
+    "new_path": "/artwork/taxico.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/taxico?product_gallery=320715&product_id=6622140",
+    "new_path": "/artwork/taxico.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/taxico?product_gallery=322825&product_id=6622140",
+    "new_path": "/artwork/taxico.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/tnt-gigapixel-hq-scale-6-00x",
+    "new_path": "/artwork/tnt.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/tnt-gigapixel-hq-scale-6-00x#/",
+    "new_path": "/artwork/tnt.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/tnt-gigapixel-hq-scale-6-00x#panel1",
+    "new_path": "/artwork/tnt.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/tnt-gigapixel-hq-scale-6-00x?product_gallery=322825&product_id=6606879",
+    "new_path": "/artwork/tnt.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/westward",
+    "new_path": "/artwork/westward.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/westward#/",
+    "new_path": "/artwork/westward.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/westward#panel1",
+    "new_path": "/artwork/westward.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/westward?product_gallery=322825&product_id=6622151",
+    "new_path": "/artwork/westward.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/white-van",
+    "new_path": "/artwork/white-van.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/white-van#/",
+    "new_path": "/artwork/white-van.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/white-van#panel1",
+    "new_path": "/artwork/white-van.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/white-van?product_gallery=320715&product_id=6622154",
+    "new_path": "/artwork/white-van.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/white-van?product_gallery=322825&product_id=6622154",
+    "new_path": "/artwork/white-van.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/whitemoose",
+    "new_path": "/artwork/white-moose.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/whitemoose#/",
+    "new_path": "/artwork/white-moose.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/whitemoose#panel1",
+    "new_path": "/artwork/white-moose.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/whitemoose?product_gallery=322825&product_id=6606889",
+    "new_path": "/artwork/white-moose.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/wrong-way",
+    "new_path": "/artwork/wrong-way.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/wrong-way#/",
+    "new_path": "/artwork/wrong-way.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/wrong-way#panel1",
+    "new_path": "/artwork/wrong-way.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/wrong-way?product_gallery=322825&product_id=6621858",
+    "new_path": "/artwork/wrong-way.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/categories/e-g-abstract",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/categories/e-g-animals",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints/categories/e-g-nature",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints?products=1",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints?products=2",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-open-edition-prints?products=3",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-originals-limited-editions-standard-products",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  },
+  {
+    "old_url": "https://www.tophandstudio.com/warehouse-originals-limited-editions-standard-products/original_art_products/original-art-product",
+    "new_path": "/gallery.html",
+    "kind": "static HTML redirect (not HTTP 301)"
+  }
+]

@@ -1,0 +1,3215 @@
+{
+ "desktop /": {
+  "body": {
+   "tag": "BODY",
+   "cls": "horz_nav_logo_inline_1260w light  asf-page-fine-art-prints show-tax-only-on-chec",
+   "text": "×\nShop Prints\nAbout The Artist\nContact\nFAQ\nSHOP PRINTS\nABOUT",
+   "font": "Raleway, sans-serif",
+   "size": "14.44px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#000000",
+   "bg": "#ffffff",
+   "lh": "14.44px",
+   "box": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  "logo": {
+   "tag": "IMG",
+   "cls": "",
+   "text": "",
+   "font": "Raleway, sans-serif",
+   "size": "14.44px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#888888",
+   "bg": "transparent",
+   "lh": "14.44px",
+   "box": [
+    112,
+    10,
+    220,
+    50
+   ],
+   "src": "https://d15yhgn2ui21mw.cloudfront.net/production/17749/MDAwMDAwMDAwMDAw7QGraePd6CACehR_ZcfBFYwXu2FyveAYEUnRGwCTQQQLtneRwWETeR6yOMFIOjy24aDow_LJj7F22f2vd2S3k0FN_38EZqodfTc2xEuhDJufAHDziomoKXOdJ3Hs_jG_Da6jI5Eudq_OlWAGPJ5eMn52fG2aed__CgmLY0NR-cbWRiFkYuEmqdtSU_epROoT3MMnzrtTDEoj-7i6QbqwlTJPg_KxcPPpZRVY8Rvib_cpqcRuUSfSibFycYc4FQhKk8iLX8xID3nf9WMRgZ_lABp-JbJ3rgdzU_gPuVRHLcqn6dxI7A0xUrxxQgSfv-ZVWJ1zN3-gjc_ktPvvkcau4FDKWZfhjRWjhppE7Py-BTxr6Cz83RuEzYN_Z7Q-SHFu48Q.webp",
+   "nw": 1000,
+   "nh": 227
+  },
+  "header": [
+   {
+    "tag": "DIV",
+    "cls": "large-2 medium-2 small-12 columns no-left-right-padding header-outer",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "14.44px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "14.44px",
+    "box": [
+     114,
+     10,
+     202,
+     50
+    ]
+   }
+  ],
+  "nav": [
+   {
+    "text": "Shop Prints",
+    "href": "https://www.tophandstudio.com/shop-art"
+   },
+   {
+    "text": "About The Artist",
+    "href": "https://www.tophandstudio.com/about-the-artist"
+   },
+   {
+    "text": "Contact",
+    "href": "https://www.tophandstudio.com/contact"
+   },
+   {
+    "text": "FAQ",
+    "href": "https://www.tophandstudio.com/faq"
+   }
+  ],
+  "navLinks": [],
+  "h1": [
+   {
+    "tag": "H1",
+    "cls": "",
+    "text": "Fine Art Prints",
+    "font": "Raleway, sans-serif",
+    "size": "18.772px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "transparent",
+    "lh": "24.4036px",
+    "box": [
+     407,
+     103,
+     909,
+     24
+    ]
+   },
+   {
+    "tag": "H1",
+    "cls": "trust-bar__title",
+    "text": "TRUSTED",
+    "font": "Raleway, sans-serif",
+    "size": "200px",
+    "weight": "800",
+    "ls": "15px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "200px",
+    "box": [
+     717,
+     2099,
+     1021,
+     200
+    ]
+   }
+  ],
+  "h2": [
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "TRUSTED ART SELLER",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     415,
+     2299,
+     500,
+     25
+    ]
+   },
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "VERIFIED SECURE WEBSITE WITH SAFE CHECKOUT",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     537,
+     2299,
+     500,
+     50
+    ]
+   }
+  ],
+  "p": [
+   {
+    "tag": "P",
+    "cls": "filter-name",
+    "text": "1/4\" Acrylic",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#303030",
+    "bg": "transparent",
+    "lh": "20.8px",
+    "box": [
+     114,
+     436,
+     253,
+     35
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "filter-name",
+    "text": "Aprons",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#303030",
+    "bg": "transparent",
+    "lh": "20.8px",
+    "box": [
+     114,
+     471,
+     253,
+     35
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "filter-name",
+    "text": "Canvas Gallery Wraps",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#303030",
+    "bg": "transparent",
+    "lh": "20.8px",
+    "box": [
+     114,
+     506,
+     253,
+     35
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "filter-name",
+    "text": "Coasters",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#303030",
+    "bg": "transparent",
+    "lh": "20.8px",
+    "box": [
+     114,
+     541,
+     253,
+     35
+    ]
+   }
+  ],
+  "buttons": [
+   {
+    "tag": "BUTTON",
+    "cls": "btn-revisit cookie-consent-btn-js",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "14.44px",
+    "weight": "700",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "normal",
+    "box": [
+     20,
+     844,
+     36,
+     36
+    ]
+   },
+   {
+    "tag": "BUTTON",
+    "cls": "submit-news-subscription",
+    "text": "SIGN UP",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#000000",
+    "bg": "#ffffff",
+    "lh": "18px",
+    "box": [
+     945,
+     2458,
+     222,
+     40
+    ]
+   }
+  ],
+  "gridTitle": [],
+  "price": [
+   {
+    "tag": "DIV",
+    "cls": "product-card__price-wrap price",
+    "text": "from\n$43.00",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "16px",
+    "box": [
+     417,
+     536,
+     273,
+     16
+    ]
+   },
+   {
+    "tag": "DIV",
+    "cls": "product-card__price-wrap price",
+    "text": "from\n$51.00",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "16px",
+    "box": [
+     724,
+     359,
+     273,
+     16
+    ]
+   },
+   {
+    "tag": "DIV",
+    "cls": "product-card__price-wrap price",
+    "text": "from\n$42.00",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "16px",
+    "box": [
+     1032,
+     400,
+     273,
+     16
+    ]
+   }
+  ],
+  "footer": [],
+  "footerLinks": [],
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "cls": "news-subscription-email",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "12px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "#000000",
+    "lh": "13px",
+    "box": [
+     945,
+     2401,
+     222,
+     40
+    ]
+   }
+  ],
+  "colorTally": [
+   [
+    "#000000",
+    66
+   ],
+   [
+    "#ffffff",
+    16
+   ],
+   [
+    "#333333",
+    16
+   ],
+   [
+    "#757575",
+    9
+   ],
+   [
+    "#303030",
+    6
+   ],
+   [
+    "#999999",
+    5
+   ],
+   [
+    "#1a1a1a",
+    4
+   ],
+   [
+    "#ff5e00",
+    3
+   ]
+  ],
+  "bgTally": [
+   [
+    "#ffffff",
+    49
+   ],
+   [
+    "#000000",
+    5
+   ],
+   [
+    "#cd6155",
+    2
+   ],
+   [
+    "#17202a",
+    1
+   ],
+   [
+    "#1c2833",
+    1
+   ],
+   [
+    "#212f3d",
+    1
+   ],
+   [
+    "#273746",
+    1
+   ],
+   [
+    "#2c3e50",
+    1
+   ],
+   [
+    "#566573",
+    1
+   ],
+   [
+    "#808b96",
+    1
+   ],
+   [
+    "#abb2b9",
+    1
+   ],
+   [
+    "#d5d8dc",
+    1
+   ]
+  ],
+  "fontTally": [
+   [
+    "Raleway, sans-serif",
+    125
+   ]
+  ],
+  "fontFaces": [
+   "social-share-kit normal normal",
+   "Raleway 300 italic",
+   "Raleway 200 normal",
+   "Raleway 300 normal",
+   "Raleway 400 normal",
+   "Raleway 500 normal",
+   "Raleway 600 normal",
+   "Raleway 700 normal",
+   "Font Awesome 6 Free 900 normal",
+   "Font Awesome 6 Free 400 normal"
+  ],
+  "docWidth": 1440
+ },
+ "desktop /about-the-artist": {
+  "body": {
+   "tag": "BODY",
+   "cls": "horz_nav_logo_inline_1260w light site-normal asf-page-about-the-artist show-tax-",
+   "text": "×\nShop Prints\nAbout The Artist\nContact\nFAQ\nSHOP PRINTS\nABOUT",
+   "font": "Raleway, sans-serif",
+   "size": "14.44px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#000000",
+   "bg": "#ffffff",
+   "lh": "14.44px",
+   "box": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  "logo": {
+   "tag": "IMG",
+   "cls": "",
+   "text": "",
+   "font": "Raleway, sans-serif",
+   "size": "14.44px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#888888",
+   "bg": "transparent",
+   "lh": "14.44px",
+   "box": [
+    112,
+    10,
+    220,
+    50
+   ],
+   "src": "https://d15yhgn2ui21mw.cloudfront.net/production/17749/MDAwMDAwMDAwMDAw7QGraePd6CACehR_ZcfBFYwXu2FyveAYEUnRGwCTQQQLtneRwWETeR6yOMFIOjy24aDow_LJj7F22f2vd2S3k0FN_38EZqodfTc2xEuhDJufAHDziomoKXOdJ3Hs_jG_Da6jI5Eudq_OlWAGPJ5eMn52fG2aed__CgmLY0NR-cbWRiFkYuEmqdtSU_epROoT3MMnzrtTDEoj-7i6QbqwlTJPg_KxcPPpZRVY8Rvib_cpqcRuUSfSibFycYc4FQhKk8iLX8xID3nf9WMRgZ_lABp-JbJ3rgdzU_gPuVRHLcqn6dxI7A0xUrxxQgSfv-ZVWJ1zN3-gjc_ktPvvkcau4FDKWZfhjRWjhppE7Py-BTxr6Cz83RuEzYN_Z7Q-SHFu48Q.webp",
+   "nw": 1000,
+   "nh": 227
+  },
+  "header": [
+   {
+    "tag": "DIV",
+    "cls": "large-2 medium-2 small-12 columns no-left-right-padding header-outer",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "14.44px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "14.44px",
+    "box": [
+     114,
+     10,
+     202,
+     50
+    ]
+   }
+  ],
+  "nav": [
+   {
+    "text": "Shop Prints",
+    "href": "https://www.tophandstudio.com/shop-art"
+   },
+   {
+    "text": "About The Artist",
+    "href": "https://www.tophandstudio.com/about-the-artist"
+   },
+   {
+    "text": "Contact",
+    "href": "https://www.tophandstudio.com/contact"
+   },
+   {
+    "text": "FAQ",
+    "href": "https://www.tophandstudio.com/faq"
+   }
+  ],
+  "navLinks": [],
+  "h1": [
+   {
+    "tag": "H1",
+    "cls": "",
+    "text": "About Me",
+    "font": "Raleway, sans-serif",
+    "size": "18.772px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "transparent",
+    "lh": "24.4036px",
+    "box": [
+     114,
+     100,
+     1212,
+     24
+    ]
+   },
+   {
+    "tag": "H1",
+    "cls": "trust-bar__title",
+    "text": "TRUSTED",
+    "font": "Raleway, sans-serif",
+    "size": "200px",
+    "weight": "800",
+    "ls": "15px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "200px",
+    "box": [
+     217,
+     1239,
+     1021,
+     200
+    ]
+   }
+  ],
+  "h2": [
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "TRUSTED ART SELLER",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     415,
+     1439,
+     500,
+     25
+    ]
+   },
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "VERIFIED SECURE WEBSITE WITH SAFE CHECKOUT",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     537,
+     1439,
+     500,
+     50
+    ]
+   }
+  ],
+  "p": [
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "I'm Kevin,",
+    "font": "Raleway, sans-serif",
+    "size": "36.1px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "72.2px",
+    "box": [
+     116,
+     139,
+     589,
+     72
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "I grew up in Anchorage, Alaska where I took an early interes",
+    "font": "Raleway, sans-serif",
+    "size": "16.264px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "32.528px",
+    "box": [
+     116,
+     227,
+     589,
+     98
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "Growing up in Alaska, your first exposure to art tends to be",
+    "font": "Raleway, sans-serif",
+    "size": "16.264px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "32.528px",
+    "box": [
+     116,
+     340,
+     589,
+     163
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "My art business has been designated as a \"Trusted Art Seller",
+    "font": "Raleway, sans-serif",
+    "size": "16.264px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "32.528px",
+    "box": [
+     116,
+     517,
+     589,
+     130
+    ]
+   }
+  ],
+  "buttons": [
+   {
+    "tag": "BUTTON",
+    "cls": "btn-revisit cookie-consent-btn-js",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "14.44px",
+    "weight": "700",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "normal",
+    "box": [
+     20,
+     844,
+     36,
+     36
+    ]
+   },
+   {
+    "tag": "BUTTON",
+    "cls": "submit-news-subscription",
+    "text": "SIGN UP",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#000000",
+    "bg": "#ffffff",
+    "lh": "18px",
+    "box": [
+     945,
+     1598,
+     222,
+     40
+    ]
+   }
+  ],
+  "gridTitle": [],
+  "price": [],
+  "footer": [],
+  "footerLinks": [],
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "cls": "news-subscription-email",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "12px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "#000000",
+    "lh": "13px",
+    "box": [
+     945,
+     1541,
+     222,
+     40
+    ]
+   }
+  ],
+  "colorTally": [
+   [
+    "#ffffff",
+    16
+   ],
+   [
+    "#000000",
+    8
+   ],
+   [
+    "#757575",
+    6
+   ],
+   [
+    "#999999",
+    5
+   ],
+   [
+    "#1a1a1a",
+    4
+   ],
+   [
+    "#ff5e00",
+    3
+   ],
+   [
+    "#333333",
+    1
+   ]
+  ],
+  "bgTally": [
+   [
+    "#000000",
+    5
+   ],
+   [
+    "#ffffff",
+    4
+   ]
+  ],
+  "fontTally": [
+   [
+    "Raleway, sans-serif",
+    43
+   ]
+  ],
+  "fontFaces": [
+   "Ionicons normal normal",
+   "social-share-kit normal normal",
+   "Raleway 300 italic",
+   "Raleway 300 normal",
+   "Raleway 400 normal",
+   "Raleway 600 normal",
+   "Raleway 700 normal",
+   "Font Awesome 6 Free 900 normal"
+  ],
+  "docWidth": 1440
+ },
+ "desktop /contact": {
+  "body": {
+   "tag": "BODY",
+   "cls": "horz_nav_logo_inline_1260w light  asf-page-contact show-tax-only-on-checkout-sum",
+   "text": "×\nShop Prints\nAbout The Artist\nContact\nFAQ\nSHOP PRINTS\nABOUT",
+   "font": "Raleway, sans-serif",
+   "size": "14.44px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#000000",
+   "bg": "#ffffff",
+   "lh": "14.44px",
+   "box": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  "logo": {
+   "tag": "IMG",
+   "cls": "",
+   "text": "",
+   "font": "Raleway, sans-serif",
+   "size": "14.44px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#888888",
+   "bg": "transparent",
+   "lh": "14.44px",
+   "box": [
+    112,
+    10,
+    220,
+    50
+   ],
+   "src": "https://d15yhgn2ui21mw.cloudfront.net/production/17749/MDAwMDAwMDAwMDAw7QGraePd6CACehR_ZcfBFYwXu2FyveAYEUnRGwCTQQQLtneRwWETeR6yOMFIOjy24aDow_LJj7F22f2vd2S3k0FN_38EZqodfTc2xEuhDJufAHDziomoKXOdJ3Hs_jG_Da6jI5Eudq_OlWAGPJ5eMn52fG2aed__CgmLY0NR-cbWRiFkYuEmqdtSU_epROoT3MMnzrtTDEoj-7i6QbqwlTJPg_KxcPPpZRVY8Rvib_cpqcRuUSfSibFycYc4FQhKk8iLX8xID3nf9WMRgZ_lABp-JbJ3rgdzU_gPuVRHLcqn6dxI7A0xUrxxQgSfv-ZVWJ1zN3-gjc_ktPvvkcau4FDKWZfhjRWjhppE7Py-BTxr6Cz83RuEzYN_Z7Q-SHFu48Q.webp",
+   "nw": 1000,
+   "nh": 227
+  },
+  "header": [
+   {
+    "tag": "DIV",
+    "cls": "large-2 medium-2 small-12 columns no-left-right-padding header-outer",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "14.44px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "14.44px",
+    "box": [
+     114,
+     10,
+     202,
+     50
+    ]
+   }
+  ],
+  "nav": [
+   {
+    "text": "Shop Prints",
+    "href": "https://www.tophandstudio.com/shop-art"
+   },
+   {
+    "text": "About The Artist",
+    "href": "https://www.tophandstudio.com/about-the-artist"
+   },
+   {
+    "text": "Contact",
+    "href": "https://www.tophandstudio.com/contact"
+   },
+   {
+    "text": "FAQ",
+    "href": "https://www.tophandstudio.com/faq"
+   }
+  ],
+  "navLinks": [],
+  "h1": [
+   {
+    "tag": "H1",
+    "cls": "",
+    "text": "Contact",
+    "font": "Raleway, sans-serif",
+    "size": "18.772px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "transparent",
+    "lh": "24.4036px",
+    "box": [
+     114,
+     100,
+     1212,
+     24
+    ]
+   },
+   {
+    "tag": "H1",
+    "cls": "trust-bar__title",
+    "text": "TRUSTED",
+    "font": "Raleway, sans-serif",
+    "size": "200px",
+    "weight": "800",
+    "ls": "15px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "200px",
+    "box": [
+     669,
+     658,
+     1021,
+     200
+    ]
+   }
+  ],
+  "h2": [
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "TRUSTED ART SELLER",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     415,
+     858,
+     500,
+     25
+    ]
+   },
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "VERIFIED SECURE WEBSITE WITH SAFE CHECKOUT",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     537,
+     858,
+     500,
+     50
+    ]
+   }
+  ],
+  "p": [
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "Thank you for your interest in my art! Please fill out the f",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "transparent",
+    "lh": "20.8px",
+    "box": [
+     114,
+     149,
+     1212,
+     21
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "= required",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#777777",
+    "bg": "transparent",
+    "lh": "20.8px",
+    "box": [
+     155,
+     584,
+     410,
+     24
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "The presence of this badge signifies that this business has ",
+    "font": "Raleway, sans-serif",
+    "size": "14px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "19.6px",
+    "box": [
+     415,
+     893,
+     500,
+     59
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "It also means that buyers can trust that they are buying fro",
+    "font": "Raleway, sans-serif",
+    "size": "14px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "19.6px",
+    "box": [
+     415,
+     952,
+     500,
+     98
+    ]
+   }
+  ],
+  "buttons": [
+   {
+    "tag": "BUTTON",
+    "cls": "btn-revisit cookie-consent-btn-js",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "14.44px",
+    "weight": "700",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "normal",
+    "box": [
+     20,
+     844,
+     36,
+     36
+    ]
+   },
+   {
+    "tag": "INPUT",
+    "cls": "submit-form-btn btn_theme btn_form",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "#000000",
+    "lh": "normal",
+    "box": [
+     155,
+     531,
+     423,
+     40
+    ]
+   },
+   {
+    "tag": "BUTTON",
+    "cls": "submit-news-subscription",
+    "text": "SIGN UP",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#000000",
+    "bg": "#ffffff",
+    "lh": "18px",
+    "box": [
+     945,
+     1017,
+     222,
+     40
+    ]
+   }
+  ],
+  "gridTitle": [],
+  "price": [],
+  "footer": [],
+  "footerLinks": [],
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "cls": "text-input",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "12px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "#ffffff",
+    "lh": "normal",
+    "box": [
+     155,
+     263,
+     423,
+     38
+    ]
+   },
+   {
+    "tag": "INPUT",
+    "cls": "text-input",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "12px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "#ffffff",
+    "lh": "normal",
+    "box": [
+     155,
+     344,
+     423,
+     38
+    ]
+   },
+   {
+    "tag": "TEXTAREA",
+    "cls": "text-area-input",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "12px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "#ffffff",
+    "lh": "normal",
+    "box": [
+     155,
+     425,
+     423,
+     90
+    ]
+   }
+  ],
+  "colorTally": [
+   [
+    "#ffffff",
+    16
+   ],
+   [
+    "#999999",
+    8
+   ],
+   [
+    "#757575",
+    6
+   ],
+   [
+    "#1a1a1a",
+    4
+   ],
+   [
+    "#ff5e00",
+    3
+   ],
+   [
+    "#000000",
+    2
+   ],
+   [
+    "#333333",
+    2
+   ],
+   [
+    "#777777",
+    1
+   ]
+  ],
+  "bgTally": [
+   [
+    "#ffffff",
+    8
+   ],
+   [
+    "#000000",
+    7
+   ],
+   [
+    "#3b5998",
+    1
+   ],
+   [
+    "#bd081c",
+    1
+   ],
+   [
+    "#1c87bd",
+    1
+   ]
+  ],
+  "fontTally": [
+   [
+    "Raleway, sans-serif",
+    42
+   ]
+  ],
+  "fontFaces": [
+   "social-share-kit normal normal",
+   "Raleway 300 italic",
+   "Raleway 300 normal",
+   "Raleway 400 normal",
+   "Raleway 600 normal",
+   "Raleway 700 normal",
+   "Font Awesome 6 Free 900 normal"
+  ],
+  "docWidth": 1440
+ },
+ "desktop /faq": {
+  "body": {
+   "tag": "BODY",
+   "cls": "horz_nav_logo_inline_1260w light site-normal asf-page-faq show-tax-only-on-check",
+   "text": "×\nShop Prints\nAbout The Artist\nContact\nFAQ\nSHOP PRINTS\nABOUT",
+   "font": "Raleway, sans-serif",
+   "size": "14.44px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#000000",
+   "bg": "#ffffff",
+   "lh": "14.44px",
+   "box": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  "logo": {
+   "tag": "IMG",
+   "cls": "",
+   "text": "",
+   "font": "Raleway, sans-serif",
+   "size": "14.44px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#888888",
+   "bg": "transparent",
+   "lh": "14.44px",
+   "box": [
+    112,
+    10,
+    220,
+    50
+   ],
+   "src": "https://d15yhgn2ui21mw.cloudfront.net/production/17749/MDAwMDAwMDAwMDAw7QGraePd6CACehR_ZcfBFYwXu2FyveAYEUnRGwCTQQQLtneRwWETeR6yOMFIOjy24aDow_LJj7F22f2vd2S3k0FN_38EZqodfTc2xEuhDJufAHDziomoKXOdJ3Hs_jG_Da6jI5Eudq_OlWAGPJ5eMn52fG2aed__CgmLY0NR-cbWRiFkYuEmqdtSU_epROoT3MMnzrtTDEoj-7i6QbqwlTJPg_KxcPPpZRVY8Rvib_cpqcRuUSfSibFycYc4FQhKk8iLX8xID3nf9WMRgZ_lABp-JbJ3rgdzU_gPuVRHLcqn6dxI7A0xUrxxQgSfv-ZVWJ1zN3-gjc_ktPvvkcau4FDKWZfhjRWjhppE7Py-BTxr6Cz83RuEzYN_Z7Q-SHFu48Q.webp",
+   "nw": 1000,
+   "nh": 227
+  },
+  "header": [
+   {
+    "tag": "DIV",
+    "cls": "large-2 medium-2 small-12 columns no-left-right-padding header-outer",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "14.44px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "14.44px",
+    "box": [
+     114,
+     10,
+     202,
+     50
+    ]
+   }
+  ],
+  "nav": [
+   {
+    "text": "Shop Prints",
+    "href": "https://www.tophandstudio.com/shop-art"
+   },
+   {
+    "text": "About The Artist",
+    "href": "https://www.tophandstudio.com/about-the-artist"
+   },
+   {
+    "text": "Contact",
+    "href": "https://www.tophandstudio.com/contact"
+   },
+   {
+    "text": "FAQ",
+    "href": "https://www.tophandstudio.com/faq"
+   }
+  ],
+  "navLinks": [],
+  "h1": [
+   {
+    "tag": "H1",
+    "cls": "",
+    "text": "Frequently Asked Questions",
+    "font": "\"Open Sans\", sans-serif",
+    "size": "50px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#353535",
+    "bg": "transparent",
+    "lh": "70px",
+    "box": [
+     116,
+     106,
+     1209,
+     70
+    ]
+   },
+   {
+    "tag": "H1",
+    "cls": "trust-bar__title",
+    "text": "TRUSTED",
+    "font": "Raleway, sans-serif",
+    "size": "200px",
+    "weight": "800",
+    "ls": "15px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "200px",
+    "box": [
+     217,
+     3171,
+     1021,
+     200
+    ]
+   }
+  ],
+  "h2": [
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "TRUSTED ART SELLER",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     296,
+     3371,
+     500,
+     25
+    ]
+   },
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "VERIFIED SECURE WEBSITE WITH SAFE CHECKOUT",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     556,
+     3371,
+     500,
+     50
+    ]
+   }
+  ],
+  "p": [
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "WHAT IS YOUR SHIPPING POLICY?",
+    "font": "Raleway, sans-serif",
+    "size": "40px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "uppercase",
+    "color": "#353535",
+    "bg": "transparent",
+    "lh": "50px",
+    "box": [
+     116,
+     242,
+     1209,
+     50
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "FOR PRINTS",
+    "font": "Raleway, sans-serif",
+    "size": "28px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#3b3b3b",
+    "bg": "transparent",
+    "lh": "38px",
+    "box": [
+     116,
+     352,
+     1209,
+     38
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "We will choose the most cost-effective shipping carrier base",
+    "font": "Raleway, sans-serif",
+    "size": "16.264px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#3b3b3b",
+    "bg": "transparent",
+    "lh": "32.528px",
+    "box": [
+     116,
+     390,
+     1209,
+     65
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "SHIPPING PRICES are calculated based on your cart total as f",
+    "font": "Raleway, sans-serif",
+    "size": "16.264px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#3b3b3b",
+    "bg": "transparent",
+    "lh": "32.528px",
+    "box": [
+     116,
+     515,
+     1209,
+     33
+    ]
+   }
+  ],
+  "buttons": [
+   {
+    "tag": "BUTTON",
+    "cls": "btn-revisit cookie-consent-btn-js",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "14.44px",
+    "weight": "700",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "normal",
+    "box": [
+     20,
+     844,
+     36,
+     36
+    ]
+   },
+   {
+    "tag": "BUTTON",
+    "cls": "submit-news-subscription",
+    "text": "SIGN UP",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#000000",
+    "bg": "#ffffff",
+    "lh": "18px",
+    "box": [
+     945,
+     3530,
+     222,
+     40
+    ]
+   }
+  ],
+  "gridTitle": [],
+  "price": [],
+  "footer": [],
+  "footerLinks": [],
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "cls": "news-subscription-email",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "12px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "#000000",
+    "lh": "13px",
+    "box": [
+     945,
+     3473,
+     222,
+     40
+    ]
+   }
+  ],
+  "colorTally": [
+   [
+    "#222222",
+    90
+   ],
+   [
+    "#353535",
+    29
+   ],
+   [
+    "#ffffff",
+    16
+   ],
+   [
+    "#0277bd",
+    6
+   ],
+   [
+    "#757575",
+    6
+   ],
+   [
+    "#999999",
+    5
+   ],
+   [
+    "#3b3b3b",
+    5
+   ],
+   [
+    "#1a1a1a",
+    4
+   ],
+   [
+    "#ff5e00",
+    3
+   ],
+   [
+    "#000000",
+    2
+   ]
+  ],
+  "bgTally": [
+   [
+    "#000000",
+    5
+   ],
+   [
+    "#ffffff",
+    5
+   ],
+   [
+    "#f9f9f9",
+    5
+   ],
+   [
+    "#128bdb",
+    1
+   ],
+   [
+    "#4527a0",
+    1
+   ]
+  ],
+  "fontTally": [
+   [
+    "Raleway, sans-serif",
+    165
+   ],
+   [
+    "\"Open Sans\", sans-serif",
+    1
+   ]
+  ],
+  "fontFaces": [
+   "Open Sans 400 normal",
+   "Open Sans 400 normal",
+   "Ionicons normal normal",
+   "social-share-kit normal normal",
+   "Raleway 300 italic",
+   "Raleway 300 normal",
+   "Raleway 400 normal",
+   "Raleway 600 normal",
+   "Raleway 700 normal",
+   "Font Awesome 6 Free 900 normal"
+  ],
+  "docWidth": 1440
+ },
+ "desktop /warehouse-open-edition-prints/art_print_products/parking": {
+  "body": {
+   "tag": "BODY",
+   "cls": "horz_nav_logo_inline_1260w light site-art-store asf-page-warehouse-open-edition-",
+   "text": "×\nShop Prints\nAbout The Artist\nContact\nFAQ\nSHOP PRINTS\nABOUT",
+   "font": "Raleway, sans-serif",
+   "size": "14.44px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#000000",
+   "bg": "#ffffff",
+   "lh": "14.44px",
+   "box": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  "logo": {
+   "tag": "IMG",
+   "cls": "",
+   "text": "",
+   "font": "Raleway, sans-serif",
+   "size": "14.44px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#888888",
+   "bg": "transparent",
+   "lh": "14.44px",
+   "box": [
+    112,
+    10,
+    220,
+    50
+   ],
+   "src": "https://d15yhgn2ui21mw.cloudfront.net/production/17749/MDAwMDAwMDAwMDAw7QGraePd6CACehR_ZcfBFYwXu2FyveAYEUnRGwCTQQQLtneRwWETeR6yOMFIOjy24aDow_LJj7F22f2vd2S3k0FN_38EZqodfTc2xEuhDJufAHDziomoKXOdJ3Hs_jG_Da6jI5Eudq_OlWAGPJ5eMn52fG2aed__CgmLY0NR-cbWRiFkYuEmqdtSU_epROoT3MMnzrtTDEoj-7i6QbqwlTJPg_KxcPPpZRVY8Rvib_cpqcRuUSfSibFycYc4FQhKk8iLX8xID3nf9WMRgZ_lABp-JbJ3rgdzU_gPuVRHLcqn6dxI7A0xUrxxQgSfv-ZVWJ1zN3-gjc_ktPvvkcau4FDKWZfhjRWjhppE7Py-BTxr6Cz83RuEzYN_Z7Q-SHFu48Q.webp",
+   "nw": 1000,
+   "nh": 227
+  },
+  "header": [
+   {
+    "tag": "DIV",
+    "cls": "large-2 medium-2 small-12 columns no-left-right-padding header-outer",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "14.44px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "14.44px",
+    "box": [
+     114,
+     10,
+     202,
+     50
+    ]
+   }
+  ],
+  "nav": [
+   {
+    "text": "Shop Prints",
+    "href": "https://www.tophandstudio.com/shop-art"
+   },
+   {
+    "text": "About The Artist",
+    "href": "https://www.tophandstudio.com/about-the-artist"
+   },
+   {
+    "text": "Contact",
+    "href": "https://www.tophandstudio.com/contact"
+   },
+   {
+    "text": "FAQ",
+    "href": "https://www.tophandstudio.com/faq"
+   }
+  ],
+  "navLinks": [],
+  "h1": [
+   {
+    "tag": "H1",
+    "cls": "",
+    "text": "PARKING",
+    "font": "Raleway, sans-serif",
+    "size": "26px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "uppercase",
+    "color": "#333333",
+    "bg": "transparent",
+    "lh": "29.9px",
+    "box": [
+     821,
+     158,
+     505,
+     30
+    ]
+   },
+   {
+    "tag": "H1",
+    "cls": "trust-bar__title",
+    "text": "TRUSTED",
+    "font": "Raleway, sans-serif",
+    "size": "200px",
+    "weight": "800",
+    "ls": "15px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "200px",
+    "box": [
+     217,
+     1150,
+     1021,
+     200
+    ]
+   }
+  ],
+  "h2": [
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "TRUSTED ART SELLER",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     415,
+     1350,
+     500,
+     25
+    ]
+   },
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "VERIFIED SECURE WEBSITE WITH SAFE CHECKOUT",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     537,
+     1350,
+     500,
+     50
+    ]
+   }
+  ],
+  "p": [
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "Live Preview AR",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#666666",
+    "bg": "transparent",
+    "lh": "12px",
+    "box": [
+     142,
+     926,
+     111,
+     12
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "Wall Preview",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#666666",
+    "bg": "transparent",
+    "lh": "12px",
+    "box": [
+     280,
+     926,
+     90,
+     12
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "360° Viewing Tool",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#666666",
+    "bg": "transparent",
+    "lh": "12px",
+    "box": [
+     390,
+     926,
+     122,
+     12
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "Save to Favorites",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#666666",
+    "bg": "transparent",
+    "lh": "12px",
+    "box": [
+     519,
+     926,
+     118,
+     12
+    ]
+   }
+  ],
+  "buttons": [
+   {
+    "tag": "BUTTON",
+    "cls": "btn-revisit cookie-consent-btn-js",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "14.44px",
+    "weight": "700",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "normal",
+    "box": [
+     20,
+     844,
+     36,
+     36
+    ]
+   },
+   {
+    "tag": "BUTTON",
+    "cls": "submit-form-btn btn_theme add-to-cart",
+    "text": "ADD TO CART",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "#000000",
+    "lh": "15px",
+    "box": [
+     891,
+     307,
+     213,
+     40
+    ]
+   },
+   {
+    "tag": "BUTTON",
+    "cls": "btn instant-checkout-btn btn_theme",
+    "text": "INSTANT CHECKOUT",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "#000000",
+    "lh": "normal",
+    "box": [
+     1113,
+     307,
+     213,
+     40
+    ]
+   },
+   {
+    "tag": "BUTTON",
+    "cls": "submit-news-subscription",
+    "text": "SIGN UP",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#000000",
+    "bg": "#ffffff",
+    "lh": "18px",
+    "box": [
+     945,
+     1510,
+     222,
+     40
+    ]
+   }
+  ],
+  "gridTitle": [
+   {
+    "tag": "DIV",
+    "cls": "large-12 columns product-name no-right-padding",
+    "text": "PARKING",
+    "font": "Raleway, sans-serif",
+    "size": "28px",
+    "weight": "700",
+    "ls": "1px",
+    "tt": "uppercase",
+    "color": "#333333",
+    "bg": "transparent",
+    "lh": "36px",
+    "box": [
+     821,
+     158,
+     505,
+     50
+    ]
+   }
+  ],
+  "price": [
+   {
+    "tag": "SPAN",
+    "cls": "item-price",
+    "text": "70.00",
+    "font": "Raleway, sans-serif",
+    "size": "26px",
+    "weight": "600",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "transparent",
+    "lh": "26px",
+    "box": [
+     837,
+     212,
+     68,
+     26
+    ]
+   }
+  ],
+  "footer": [],
+  "footerLinks": [],
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "cls": "news-subscription-email",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "12px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "#000000",
+    "lh": "13px",
+    "box": [
+     945,
+     1452,
+     222,
+     40
+    ]
+   }
+  ],
+  "colorTally": [
+   [
+    "#686868",
+    20
+   ],
+   [
+    "#ffffff",
+    19
+   ],
+   [
+    "#333333",
+    8
+   ],
+   [
+    "#757575",
+    7
+   ],
+   [
+    "#999999",
+    6
+   ],
+   [
+    "#666666",
+    5
+   ],
+   [
+    "#000000",
+    4
+   ],
+   [
+    "#1a1a1a",
+    4
+   ],
+   [
+    "#9a9898",
+    3
+   ],
+   [
+    "#ff5e00",
+    3
+   ],
+   [
+    "#525252",
+    2
+   ],
+   [
+    "#808080",
+    1
+   ]
+  ],
+  "bgTally": [
+   [
+    "#ffffff",
+    11
+   ],
+   [
+    "#000000",
+    7
+   ],
+   [
+    "#cccccc",
+    1
+   ]
+  ],
+  "fontTally": [
+   [
+    "Raleway, sans-serif",
+    83
+   ]
+  ],
+  "fontFaces": [
+   "social-share-kit normal normal",
+   "Raleway 300 italic",
+   "Raleway 300 normal",
+   "Raleway 400 normal",
+   "Raleway 500 normal",
+   "Raleway 600 normal",
+   "Raleway 700 normal",
+   "Font Awesome 6 Free 900 normal",
+   "Font Awesome 6 Free 400 normal"
+  ],
+  "docWidth": 1440
+ },
+ "phone /": {
+  "body": {
+   "tag": "BODY",
+   "cls": "horz_nav_logo_inline_1260w light  asf-page-fine-art-prints show-tax-only-on-chec",
+   "text": "0\n×\nShop Prints\nAbout The Artist\nContact\nFAQ\nFavorites\nCreat",
+   "font": "Raleway, sans-serif",
+   "size": "16px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#000000",
+   "bg": "#ffffff",
+   "lh": "16px",
+   "box": [
+    0,
+    0,
+    390,
+    844
+   ]
+  },
+  "logo": {
+   "tag": "IMG",
+   "cls": "",
+   "text": "",
+   "font": "Raleway, sans-serif",
+   "size": "16px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#888888",
+   "bg": "transparent",
+   "lh": "16px",
+   "box": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "src": "https://d15yhgn2ui21mw.cloudfront.net/production/17749/MDAwMDAwMDAwMDAw7QGraePd6CACehR_ZcfBFYwXu2FyveAYEUnRGwCTQQQLtneRwWETeR6yOMFIOjy24aDow_LJj7F22f2vd2S3k0FN_38EZqodfTc2xEuhDJufAHDziomoKXOdJ3Hs_jG_Da6jI5Eudq_OlWAGPJ5eMn52fG2aed__CgmLY0NR-cbWRiFkYuEmqdtSU_epROoT3MMnzrtTDEoj-7i6QbqwlTJPg_KxcPPpZRVY8Rvib_cpqcRuUSfSibFycYc4FQhKk8iLX8xID3nf9WMRgZ_lABp-JbJ3rgdzU_gPuVRHLcqn6dxI7A0xUrxxQgSfv-ZVWJ1zN3-gjc_ktPvvkcau4FDKWZfhjRWjhppE7Py-BTxr6Cz83RuEzYN_Z7Q-SHFu48Q.webp",
+   "nw": 1000,
+   "nh": 227
+  },
+  "header": [
+   {
+    "tag": "NAV",
+    "cls": "top-bar mobile-navigation-top-bar-js columns",
+    "text": "0",
+    "font": "Raleway, sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "#ffffff",
+    "lh": "45px",
+    "box": [
+     0,
+     0,
+     390,
+     45
+    ]
+   }
+  ],
+  "nav": [
+   {
+    "text": "0",
+    "href": "#"
+   },
+   {
+    "text": "Shop Prints",
+    "href": "https://www.tophandstudio.com/shop-art"
+   },
+   {
+    "text": "About The Artist",
+    "href": "https://www.tophandstudio.com/about-the-artist"
+   },
+   {
+    "text": "Contact",
+    "href": "https://www.tophandstudio.com/contact"
+   },
+   {
+    "text": "FAQ",
+    "href": "https://www.tophandstudio.com/faq"
+   },
+   {
+    "text": "Favorites",
+    "href": "/apps/sessions/share_authentication"
+   },
+   {
+    "text": "Create an Account",
+    "href": "/apps/sessions/share_authentication?users_new=true"
+   },
+   {
+    "text": "Login",
+    "href": "/apps/sessions/share_authentication"
+   }
+  ],
+  "navLinks": [
+   {
+    "tag": "A",
+    "cls": "scrolling-logo",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "25.6px",
+    "box": [
+     15,
+     5,
+     89,
+     35
+    ]
+   },
+   {
+    "tag": "A",
+    "cls": "navbar-v3-mobile-cart-link",
+    "text": "0",
+    "font": "Raleway, sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "25.6px",
+    "box": [
+     310,
+     12,
+     25,
+     25
+    ]
+   },
+   {
+    "tag": "A",
+    "cls": "",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "25.6px",
+    "box": [
+     350,
+     10,
+     25,
+     25
+    ]
+   }
+  ],
+  "h1": [
+   {
+    "tag": "H1",
+    "cls": "",
+    "text": "Fine Art Prints",
+    "font": "Raleway, sans-serif",
+    "size": "28px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "transparent",
+    "lh": "36px",
+    "box": [
+     20,
+     104,
+     350,
+     36
+    ]
+   }
+  ],
+  "h2": [
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "TRUSTED ART SELLER",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     20,
+     3941,
+     350,
+     25
+    ]
+   },
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "VERIFIED SECURE WEBSITE WITH SAFE CHECKOUT",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     20,
+     4061,
+     350,
+     75
+    ]
+   }
+  ],
+  "p": [
+   {
+    "tag": "P",
+    "cls": "filter-name",
+    "text": "1/4\" Acrylic",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#303030",
+    "bg": "transparent",
+    "lh": "20.8px",
+    "box": [
+     15,
+     1271,
+     360,
+     35
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "filter-name",
+    "text": "Aprons",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#303030",
+    "bg": "transparent",
+    "lh": "20.8px",
+    "box": [
+     15,
+     1306,
+     360,
+     35
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "filter-name",
+    "text": "Canvas Gallery Wraps",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#303030",
+    "bg": "transparent",
+    "lh": "20.8px",
+    "box": [
+     15,
+     1341,
+     360,
+     35
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "filter-name",
+    "text": "Coasters",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "300",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#303030",
+    "bg": "transparent",
+    "lh": "20.8px",
+    "box": [
+     15,
+     1375,
+     360,
+     35
+    ]
+   }
+  ],
+  "buttons": [
+   {
+    "tag": "BUTTON",
+    "cls": "btn-revisit cookie-consent-btn-js",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "16px",
+    "weight": "700",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "normal",
+    "box": [
+     20,
+     788,
+     36,
+     36
+    ]
+   },
+   {
+    "tag": "BUTTON",
+    "cls": "submit-news-subscription",
+    "text": "SIGN UP",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#000000",
+    "bg": "#ffffff",
+    "lh": "18px",
+    "box": [
+     32,
+     4808,
+     326,
+     40
+    ]
+   }
+  ],
+  "gridTitle": [],
+  "price": [
+   {
+    "tag": "DIV",
+    "cls": "product-card__price-wrap price",
+    "text": "from\n$43.00",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "16px",
+    "box": [
+     30,
+     617,
+     330,
+     16
+    ]
+   },
+   {
+    "tag": "DIV",
+    "cls": "product-card__price-wrap price",
+    "text": "from\n$51.00",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "16px",
+    "box": [
+     30,
+     899,
+     330,
+     16
+    ]
+   },
+   {
+    "tag": "DIV",
+    "cls": "product-card__price-wrap price",
+    "text": "from\n$42.00",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "16px",
+    "box": [
+     30,
+     1230,
+     330,
+     16
+    ]
+   }
+  ],
+  "footer": [],
+  "footerLinks": [],
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "cls": "",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "12px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "#ffffff",
+    "lh": "normal",
+    "box": [
+     -300,
+     124,
+     264,
+     35
+    ]
+   },
+   {
+    "tag": "INPUT",
+    "cls": "news-subscription-email",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "12px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "#000000",
+    "lh": "13px",
+    "box": [
+     32,
+     4751,
+     326,
+     40
+    ]
+   }
+  ],
+  "colorTally": [
+   [
+    "#000000",
+    67
+   ],
+   [
+    "#333333",
+    16
+   ],
+   [
+    "#ffffff",
+    15
+   ],
+   [
+    "#757575",
+    9
+   ],
+   [
+    "#1a1a1a",
+    7
+   ],
+   [
+    "#303030",
+    6
+   ],
+   [
+    "#ff5e00",
+    2
+   ]
+  ],
+  "bgTally": [
+   [
+    "#ffffff",
+    52
+   ],
+   [
+    "#000000",
+    6
+   ],
+   [
+    "#cd6155",
+    2
+   ],
+   [
+    "#17202a",
+    1
+   ],
+   [
+    "#1c2833",
+    1
+   ],
+   [
+    "#212f3d",
+    1
+   ],
+   [
+    "#273746",
+    1
+   ],
+   [
+    "#2c3e50",
+    1
+   ],
+   [
+    "#566573",
+    1
+   ],
+   [
+    "#808b96",
+    1
+   ],
+   [
+    "#abb2b9",
+    1
+   ],
+   [
+    "#d5d8dc",
+    1
+   ]
+  ],
+  "fontTally": [
+   [
+    "Raleway, sans-serif",
+    122
+   ]
+  ],
+  "fontFaces": [
+   "social-share-kit normal normal",
+   "Raleway 300 italic",
+   "Raleway 200 normal",
+   "Raleway 300 normal",
+   "Raleway 400 normal",
+   "Raleway 500 normal",
+   "Raleway 600 normal",
+   "Raleway 700 normal",
+   "Font Awesome 6 Free 900 normal",
+   "Font Awesome 6 Free 400 normal"
+  ],
+  "docWidth": 390
+ },
+ "phone /warehouse-open-edition-prints/art_print_products/parking": {
+  "body": {
+   "tag": "BODY",
+   "cls": "horz_nav_logo_inline_1260w light site-art-store asf-page-warehouse-open-edition-",
+   "text": "0\n×\nShop Prints\nAbout The Artist\nContact\nFAQ\nFavorites\nCreat",
+   "font": "Raleway, sans-serif",
+   "size": "16px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#000000",
+   "bg": "#ffffff",
+   "lh": "16px",
+   "box": [
+    0,
+    0,
+    390,
+    844
+   ]
+  },
+  "logo": {
+   "tag": "IMG",
+   "cls": "",
+   "text": "",
+   "font": "Raleway, sans-serif",
+   "size": "16px",
+   "weight": "400",
+   "ls": "normal",
+   "tt": "none",
+   "color": "#888888",
+   "bg": "transparent",
+   "lh": "16px",
+   "box": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "src": "https://d15yhgn2ui21mw.cloudfront.net/production/17749/MDAwMDAwMDAwMDAw7QGraePd6CACehR_ZcfBFYwXu2FyveAYEUnRGwCTQQQLtneRwWETeR6yOMFIOjy24aDow_LJj7F22f2vd2S3k0FN_38EZqodfTc2xEuhDJufAHDziomoKXOdJ3Hs_jG_Da6jI5Eudq_OlWAGPJ5eMn52fG2aed__CgmLY0NR-cbWRiFkYuEmqdtSU_epROoT3MMnzrtTDEoj-7i6QbqwlTJPg_KxcPPpZRVY8Rvib_cpqcRuUSfSibFycYc4FQhKk8iLX8xID3nf9WMRgZ_lABp-JbJ3rgdzU_gPuVRHLcqn6dxI7A0xUrxxQgSfv-ZVWJ1zN3-gjc_ktPvvkcau4FDKWZfhjRWjhppE7Py-BTxr6Cz83RuEzYN_Z7Q-SHFu48Q.webp",
+   "nw": 1000,
+   "nh": 227
+  },
+  "header": [
+   {
+    "tag": "NAV",
+    "cls": "top-bar mobile-navigation-top-bar-js columns",
+    "text": "0",
+    "font": "Raleway, sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "#ffffff",
+    "lh": "45px",
+    "box": [
+     0,
+     0,
+     390,
+     45
+    ]
+   }
+  ],
+  "nav": [
+   {
+    "text": "0",
+    "href": "#"
+   },
+   {
+    "text": "Shop Prints",
+    "href": "https://www.tophandstudio.com/shop-art"
+   },
+   {
+    "text": "About The Artist",
+    "href": "https://www.tophandstudio.com/about-the-artist"
+   },
+   {
+    "text": "Contact",
+    "href": "https://www.tophandstudio.com/contact"
+   },
+   {
+    "text": "FAQ",
+    "href": "https://www.tophandstudio.com/faq"
+   },
+   {
+    "text": "Favorites",
+    "href": "/apps/sessions/share_authentication"
+   },
+   {
+    "text": "Create an Account",
+    "href": "/apps/sessions/share_authentication?users_new=true"
+   },
+   {
+    "text": "Login",
+    "href": "/apps/sessions/share_authentication"
+   }
+  ],
+  "navLinks": [
+   {
+    "tag": "A",
+    "cls": "scrolling-logo",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "25.6px",
+    "box": [
+     15,
+     5,
+     89,
+     35
+    ]
+   },
+   {
+    "tag": "A",
+    "cls": "navbar-v3-mobile-cart-link",
+    "text": "0",
+    "font": "Raleway, sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "25.6px",
+    "box": [
+     310,
+     12,
+     25,
+     25
+    ]
+   },
+   {
+    "tag": "A",
+    "cls": "",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#000000",
+    "bg": "transparent",
+    "lh": "25.6px",
+    "box": [
+     350,
+     10,
+     25,
+     25
+    ]
+   }
+  ],
+  "h1": [
+   {
+    "tag": "H1",
+    "cls": "",
+    "text": "PARKING",
+    "font": "Raleway, sans-serif",
+    "size": "26px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "uppercase",
+    "color": "#333333",
+    "bg": "transparent",
+    "lh": "29.9px",
+    "box": [
+     20,
+     919,
+     350,
+     30
+    ]
+   }
+  ],
+  "h2": [
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "TRUSTED ART SELLER",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     20,
+     2511,
+     350,
+     25
+    ]
+   },
+   {
+    "tag": "H2",
+    "cls": "trust-bar__item-title",
+    "text": "VERIFIED SECURE WEBSITE WITH SAFE CHECKOUT",
+    "font": "Raleway, sans-serif",
+    "size": "20px",
+    "weight": "600",
+    "ls": "5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "25px",
+    "box": [
+     20,
+     2631,
+     350,
+     75
+    ]
+   }
+  ],
+  "p": [
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "Live\nPreview AR",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#666666",
+    "bg": "transparent",
+    "lh": "12px",
+    "box": [
+     25,
+     684,
+     78,
+     24
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "Wall\nPreview",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#666666",
+    "bg": "transparent",
+    "lh": "12px",
+    "box": [
+     124,
+     684,
+     55,
+     24
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "360° Viewing Tool",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#666666",
+    "bg": "transparent",
+    "lh": "12px",
+    "box": [
+     195,
+     684,
+     88,
+     36
+    ]
+   },
+   {
+    "tag": "P",
+    "cls": "",
+    "text": "Save to\n Favorites",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "400",
+    "ls": "1px",
+    "tt": "none",
+    "color": "#666666",
+    "bg": "transparent",
+    "lh": "12px",
+    "box": [
+     293,
+     684,
+     67,
+     24
+    ]
+   }
+  ],
+  "buttons": [
+   {
+    "tag": "BUTTON",
+    "cls": "btn-revisit cookie-consent-btn-js",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "16px",
+    "weight": "700",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#ffffff",
+    "bg": "transparent",
+    "lh": "normal",
+    "box": [
+     20,
+     788,
+     36,
+     36
+    ]
+   },
+   {
+    "tag": "BUTTON",
+    "cls": "submit-form-btn btn_theme add-to-cart",
+    "text": "ADD TO CART",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "#000000",
+    "lh": "15px",
+    "box": [
+     90,
+     1091,
+     280,
+     40
+    ]
+   },
+   {
+    "tag": "BUTTON",
+    "cls": "btn instant-checkout-btn btn_theme",
+    "text": "INSTANT CHECKOUT",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#ffffff",
+    "bg": "#000000",
+    "lh": "normal",
+    "box": [
+     20,
+     1141,
+     350,
+     40
+    ]
+   },
+   {
+    "tag": "BUTTON",
+    "cls": "submit-news-subscription",
+    "text": "SIGN UP",
+    "font": "Raleway, sans-serif",
+    "size": "13px",
+    "weight": "700",
+    "ls": "0.5px",
+    "tt": "uppercase",
+    "color": "#000000",
+    "bg": "#ffffff",
+    "lh": "18px",
+    "box": [
+     32,
+     3379,
+     326,
+     40
+    ]
+   }
+  ],
+  "gridTitle": [
+   {
+    "tag": "DIV",
+    "cls": "large-12 columns product-name no-right-padding",
+    "text": "PARKING",
+    "font": "Raleway, sans-serif",
+    "size": "28px",
+    "weight": "700",
+    "ls": "1px",
+    "tt": "uppercase",
+    "color": "#333333",
+    "bg": "transparent",
+    "lh": "36px",
+    "box": [
+     20,
+     919,
+     350,
+     50
+    ]
+   }
+  ],
+  "price": [
+   {
+    "tag": "SPAN",
+    "cls": "item-price",
+    "text": "70.00",
+    "font": "Raleway, sans-serif",
+    "size": "26px",
+    "weight": "600",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "transparent",
+    "lh": "26px",
+    "box": [
+     169,
+     973,
+     68,
+     26
+    ]
+   }
+  ],
+  "footer": [],
+  "footerLinks": [],
+  "inputs": [
+   {
+    "tag": "INPUT",
+    "cls": "",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "12px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "#ffffff",
+    "lh": "normal",
+    "box": [
+     -300,
+     124,
+     264,
+     35
+    ]
+   },
+   {
+    "tag": "INPUT",
+    "cls": "news-subscription-email",
+    "text": "",
+    "font": "Raleway, sans-serif",
+    "size": "12px",
+    "weight": "400",
+    "ls": "normal",
+    "tt": "none",
+    "color": "#333333",
+    "bg": "#000000",
+    "lh": "13px",
+    "box": [
+     32,
+     3321,
+     326,
+     40
+    ]
+   }
+  ],
+  "colorTally": [
+   [
+    "#686868",
+    20
+   ],
+   [
+    "#ffffff",
+    18
+   ],
+   [
+    "#333333",
+    8
+   ],
+   [
+    "#1a1a1a",
+    7
+   ],
+   [
+    "#757575",
+    7
+   ],
+   [
+    "#666666",
+    5
+   ],
+   [
+    "#000000",
+    4
+   ],
+   [
+    "#9a9898",
+    3
+   ],
+   [
+    "#525252",
+    2
+   ],
+   [
+    "#ff5e00",
+    2
+   ],
+   [
+    "#999999",
+    1
+   ],
+   [
+    "#808080",
+    1
+   ]
+  ],
+  "bgTally": [
+   [
+    "#ffffff",
+    12
+   ],
+   [
+    "#000000",
+    8
+   ],
+   [
+    "#cccccc",
+    1
+   ],
+   [
+    "#3b5998",
+    1
+   ],
+   [
+    "#bd081c",
+    1
+   ],
+   [
+    "#1c87bd",
+    1
+   ]
+  ],
+  "fontTally": [
+   [
+    "Raleway, sans-serif",
+    79
+   ]
+  ],
+  "fontFaces": [
+   "social-share-kit normal normal",
+   "Raleway 300 italic",
+   "Raleway 300 normal",
+   "Raleway 400 normal",
+   "Raleway 500 normal",
+   "Raleway 600 normal",
+   "Raleway 700 normal",
+   "Font Awesome 6 Free 900 normal",
+   "Font Awesome 6 Free 400 normal"
+  ],
+  "docWidth": 390
+ }
+}

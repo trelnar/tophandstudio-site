@@ -1,0 +1,775 @@
+{
+  "_readme": "Edit this file, then run: python3 scripts/build.py. Leave unknown fields null; they are hidden on the site. alt null means the alt text is generated from the title. Set shop.enabled true and shop.buy_url to show the Buy a print button on that work.",
+  "works": [
+    {
+      "slug": "parking",
+      "title": "Parking",
+      "order": 1,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/parking.png",
+        "width": 801,
+        "height": 1000
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/parking",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 43,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "falttop-final",
+      "title": "Flat Top",
+      "order": 2,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/falttop-final.jpg",
+        "width": 1000,
+        "height": 600
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/falttop-final",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 51,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "southwest",
+      "title": "Southwest",
+      "order": 3,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/southwest.jpg",
+        "width": 1000,
+        "height": 750
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/southwest",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "taxico",
+      "title": "Taxico",
+      "order": 4,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/taxico.jpg",
+        "width": 1000,
+        "height": 750
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/taxico",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "december",
+      "title": "December",
+      "order": 5,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/december.jpg",
+        "width": 800,
+        "height": 1000
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/december",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 43,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "kevin-ellis-redtruck4x",
+      "title": "Red Truck",
+      "order": 6,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/kevin-ellis-redtruck4x.png",
+        "width": 1000,
+        "height": 725
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/kevin-ellis-redtruck4x",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "lanie",
+      "title": "Lanie",
+      "order": 7,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/lanie.jpg",
+        "width": 750,
+        "height": 1000
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/lanie",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "larkey",
+      "title": "Larkey",
+      "order": 8,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/larkey.jpg",
+        "width": 1000,
+        "height": 750
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/larkey",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "36th-spenard",
+      "title": "36th & Spenard",
+      "order": 9,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/36th-spenard.jpg",
+        "width": 1000,
+        "height": 800
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/36th-spenard",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 43,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "international",
+      "title": "International",
+      "order": 10,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/international.jpg",
+        "width": 1000,
+        "height": 800
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/international",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 43,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "white-van",
+      "title": "White Van",
+      "order": 11,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/white-van.jpg",
+        "width": 1000,
+        "height": 792
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/white-van",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 43,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "whitemoose",
+      "title": "White Moose",
+      "order": 12,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/whitemoose.jpg",
+        "width": 1000,
+        "height": 753
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/whitemoose",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "kstreet",
+      "title": "K Street",
+      "order": 13,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/kstreet.jpg",
+        "width": 749,
+        "height": 1000
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/kstreet",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "denali",
+      "title": "Denali",
+      "order": 14,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/denali.jpg",
+        "width": 800,
+        "height": 1000
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/denali",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 43,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "dusk",
+      "title": "Dusk",
+      "order": 15,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/dusk.jpg",
+        "width": 1000,
+        "height": 750
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/dusk",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "westward",
+      "title": "Westward",
+      "order": 16,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/westward.png",
+        "width": 1000,
+        "height": 778
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/westward",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 43,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "heading-out",
+      "title": "Heading Out",
+      "order": 17,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/heading-out.jpg",
+        "width": 1000,
+        "height": 714
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/heading-out",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "commute-gigapixel-hq-scale-6-00x",
+      "title": "Commute",
+      "order": 18,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/commute-gigapixel-hq-scale-6-00x.jpg",
+        "width": 1000,
+        "height": 798
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/commute-gigapixel-hq-scale-6-00x",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 43,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "chugach",
+      "title": "Chugach",
+      "order": 19,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/chugach.jpg",
+        "width": 1000,
+        "height": 667
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/chugach",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 46,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "break-up",
+      "title": "Break-Up",
+      "order": 20,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/break-up.jpg",
+        "width": 1000,
+        "height": 700
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/break-up",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "black-ford",
+      "title": "Black Ford",
+      "order": 21,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/black-ford.jpg",
+        "width": 1000,
+        "height": 754
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/black-ford",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "kevin-ellis-west27th6x",
+      "title": "West 27th",
+      "order": 22,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/kevin-ellis-west27th6x.png",
+        "width": 1000,
+        "height": 750
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/kevin-ellis-west27th6x",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "drug-free-zone",
+      "title": "Drug Free Zone",
+      "order": 23,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/drug-free-zone.jpg",
+        "width": 800,
+        "height": 1000
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/drug-free-zone",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 43,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "hermann",
+      "title": "Hermann",
+      "order": 24,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/hermann.jpg",
+        "width": 1000,
+        "height": 750
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/hermann",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "icefog",
+      "title": "Icefog",
+      "order": 25,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/icefog.jpg",
+        "width": 1000,
+        "height": 800
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/icefog",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 43,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "wrong-way",
+      "title": "Wrong Way",
+      "order": 26,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/wrong-way.jpg",
+        "width": 1000,
+        "height": 750
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/wrong-way",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "tnt-gigapixel-hq-scale-6-00x",
+      "title": "TNT",
+      "order": 27,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/tnt-gigapixel-hq-scale-6-00x.jpg",
+        "width": 1000,
+        "height": 747
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/tnt-gigapixel-hq-scale-6-00x",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "coldsnap-gigapixel-hq-scale-4-00x",
+      "title": "Cold Snap",
+      "order": 28,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/coldsnap-gigapixel-hq-scale-4-00x.jpg",
+        "width": 1000,
+        "height": 751
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/coldsnap-gigapixel-hq-scale-4-00x",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "kevin-ellis-spillbound",
+      "title": "Spill Bound",
+      "order": 29,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/kevin-ellis-spillbound.png",
+        "width": 1000,
+        "height": 754
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/kevin-ellis-spillbound",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "heading-back",
+      "title": "Heading Back",
+      "order": 30,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/heading-back.jpg",
+        "width": 1000,
+        "height": 800
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/heading-back",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 43,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "kevin-ellis-discountliquor2x",
+      "title": "Discount Liquor",
+      "order": 31,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/kevin-ellis-discountliquor2x.png",
+        "width": 1000,
+        "height": 750
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/kevin-ellis-discountliquor2x",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "norge",
+      "title": "Norge",
+      "order": 32,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/norge.jpg",
+        "width": 1000,
+        "height": 752
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/norge",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "keyboard",
+      "title": "Keyboard",
+      "order": 33,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/keyboard.jpg",
+        "width": 750,
+        "height": 1000
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/keyboard",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "disabled",
+      "title": "Disabled",
+      "order": 34,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/disabled.png",
+        "width": 1000,
+        "height": 750
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/disabled",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 42,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    },
+    {
+      "slug": "kevin-ellis-greendumpster40x40",
+      "title": "Green Dumpster",
+      "order": 35,
+      "year": null,
+      "medium": null,
+      "dimensions": null,
+      "description": null,
+      "image": {
+        "source": "capture/images/works/kevin-ellis-greendumpster40x40.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "alt": null,
+      "old_path": "/warehouse-open-edition-prints/art_print_products/kevin-ellis-greendumpster40x40",
+      "shop": {
+        "enabled": false,
+        "buy_url": null,
+        "price_from": 41,
+        "note": "Prices from the old Art Storefronts site, for reference only."
+      }
+    }
+  ]
+}

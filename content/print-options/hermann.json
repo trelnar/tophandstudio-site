@@ -1,0 +1,408 @@
+{
+  "artwork": "Hermann",
+  "url": "https://www.tophandstudio.com/warehouse-open-edition-prints/art_print_products/hermann",
+  "currency": "USD",
+  "scope": "Partial base-price calculations for available print sizes. No optional finish/frame, coupon, shipping or tax. Not a complete retail price matrix.",
+  "media": [
+    {
+      "name": "High Gloss MetalPrint",
+      "medium_id": "16942",
+      "sizes": [
+        {
+          "size_inches": "5x4",
+          "base_price_usd": 38.5
+        },
+        {
+          "size_inches": "7x5",
+          "base_price_usd": 59.5
+        },
+        {
+          "size_inches": "8x6",
+          "base_price_usd": 70.0
+        },
+        {
+          "size_inches": "9x7",
+          "base_price_usd": 59.0
+        },
+        {
+          "size_inches": "11x8",
+          "base_price_usd": 86.0
+        },
+        {
+          "size_inches": "12x9",
+          "base_price_usd": 94.5
+        },
+        {
+          "size_inches": "13x10",
+          "base_price_usd": 114.0
+        },
+        {
+          "size_inches": "15x11",
+          "base_price_usd": 157.5
+        },
+        {
+          "size_inches": "16x12",
+          "base_price_usd": 168.0
+        },
+        {
+          "size_inches": "17x13",
+          "base_price_usd": 175.0
+        },
+        {
+          "size_inches": "19x14",
+          "base_price_usd": 233.0
+        },
+        {
+          "size_inches": "20x15",
+          "base_price_usd": 262.5
+        },
+        {
+          "size_inches": "21x16",
+          "base_price_usd": 239.0
+        },
+        {
+          "size_inches": "23x17",
+          "base_price_usd": 303.0
+        },
+        {
+          "size_inches": "24x18",
+          "base_price_usd": 308.0
+        },
+        {
+          "size_inches": "25x19",
+          "base_price_usd": 364.0
+        },
+        {
+          "size_inches": "27x20",
+          "base_price_usd": 388.0
+        },
+        {
+          "size_inches": "28x21",
+          "base_price_usd": 412.0
+        },
+        {
+          "size_inches": "29x22",
+          "base_price_usd": 447.0
+        },
+        {
+          "size_inches": "31x23",
+          "base_price_usd": 607.0
+        },
+        {
+          "size_inches": "32x24",
+          "base_price_usd": 672.0
+        },
+        {
+          "size_inches": "33x25",
+          "base_price_usd": 722.0
+        },
+        {
+          "size_inches": "35x26",
+          "base_price_usd": 761.0
+        },
+        {
+          "size_inches": "36x27",
+          "base_price_usd": 850.5
+        },
+        {
+          "size_inches": "37x28",
+          "base_price_usd": 906.5
+        },
+        {
+          "size_inches": "39x29",
+          "base_price_usd": 990.0
+        },
+        {
+          "size_inches": "40x30",
+          "base_price_usd": 962.5
+        },
+        {
+          "size_inches": "41x31",
+          "base_price_usd": 1165.0
+        },
+        {
+          "size_inches": "43x32",
+          "base_price_usd": 1177.0
+        },
+        {
+          "size_inches": "44x33",
+          "base_price_usd": 1169.0
+        },
+        {
+          "size_inches": "45x34",
+          "base_price_usd": 1232.0
+        },
+        {
+          "size_inches": "47x35",
+          "base_price_usd": 1349.0
+        },
+        {
+          "size_inches": "48x36",
+          "base_price_usd": 1381.0
+        },
+        {
+          "size_inches": "49x37",
+          "base_price_usd": 1449.0
+        },
+        {
+          "size_inches": "51x38",
+          "base_price_usd": 1560.0
+        },
+        {
+          "size_inches": "52x39",
+          "base_price_usd": 1633.0
+        },
+        {
+          "size_inches": "53x40",
+          "base_price_usd": 1707.0
+        },
+        {
+          "size_inches": "55x41",
+          "base_price_usd": 1723.0
+        },
+        {
+          "size_inches": "56x42",
+          "base_price_usd": 1797.0
+        },
+        {
+          "size_inches": "57x43",
+          "base_price_usd": 2213.0
+        },
+        {
+          "size_inches": "59x44",
+          "base_price_usd": 2068.0
+        },
+        {
+          "size_inches": "60x45",
+          "base_price_usd": 2149.0
+        },
+        {
+          "size_inches": "61x46",
+          "base_price_usd": 2231.0
+        },
+        {
+          "size_inches": "63x47",
+          "base_price_usd": 2354.0
+        },
+        {
+          "size_inches": "64x48",
+          "base_price_usd": 2433.0
+        }
+      ]
+    },
+    {
+      "name": "Canvas Gallery Wraps",
+      "medium_id": "17131",
+      "sizes": [
+        {
+          "size_inches": "11x8",
+          "base_price_usd": 176.0
+        },
+        {
+          "size_inches": "12x9",
+          "base_price_usd": 183.0
+        },
+        {
+          "size_inches": "13x10",
+          "base_price_usd": 194.0
+        },
+        {
+          "size_inches": "15x11",
+          "base_price_usd": 213.0
+        },
+        {
+          "size_inches": "16x12",
+          "base_price_usd": 214.0
+        },
+        {
+          "size_inches": "17x13",
+          "base_price_usd": 227.0
+        },
+        {
+          "size_inches": "19x14",
+          "base_price_usd": 246.0
+        },
+        {
+          "size_inches": "20x15",
+          "base_price_usd": 260.0
+        },
+        {
+          "size_inches": "21x16",
+          "base_price_usd": 281.0
+        },
+        {
+          "size_inches": "23x17",
+          "base_price_usd": 316.0
+        },
+        {
+          "size_inches": "24x18",
+          "base_price_usd": 338.0
+        },
+        {
+          "size_inches": "25x19",
+          "base_price_usd": 346.0
+        },
+        {
+          "size_inches": "27x20",
+          "base_price_usd": 385.0
+        },
+        {
+          "size_inches": "28x21",
+          "base_price_usd": 410.0
+        },
+        {
+          "size_inches": "29x22",
+          "base_price_usd": 445.0
+        },
+        {
+          "size_inches": "31x23",
+          "base_price_usd": 478.0
+        },
+        {
+          "size_inches": "32x24",
+          "base_price_usd": 488.0
+        },
+        {
+          "size_inches": "33x25",
+          "base_price_usd": 524.0
+        },
+        {
+          "size_inches": "35x26",
+          "base_price_usd": 607.0
+        },
+        {
+          "size_inches": "36x27",
+          "base_price_usd": 648.0
+        },
+        {
+          "size_inches": "37x28",
+          "base_price_usd": 691.0
+        },
+        {
+          "size_inches": "39x29",
+          "base_price_usd": 678.0
+        },
+        {
+          "size_inches": "40x30",
+          "base_price_usd": 719.0
+        },
+        {
+          "size_inches": "41x31",
+          "base_price_usd": 740.0
+        },
+        {
+          "size_inches": "43x32",
+          "base_price_usd": 820.0
+        },
+        {
+          "size_inches": "44x33",
+          "base_price_usd": 866.0
+        },
+        {
+          "size_inches": "45x34",
+          "base_price_usd": 884.0
+        },
+        {
+          "size_inches": "47x35",
+          "base_price_usd": 950.0
+        },
+        {
+          "size_inches": "48x36",
+          "base_price_usd": 998.0
+        },
+        {
+          "size_inches": "49x37",
+          "base_price_usd": 1047.0
+        },
+        {
+          "size_inches": "51x38",
+          "base_price_usd": 1120.0
+        },
+        {
+          "size_inches": "52x39",
+          "base_price_usd": 1010.0
+        },
+        {
+          "size_inches": "53x40",
+          "base_price_usd": 1056.0
+        },
+        {
+          "size_inches": "55x41",
+          "base_price_usd": 1123.0
+        },
+        {
+          "size_inches": "56x42",
+          "base_price_usd": 1171.0
+        }
+      ]
+    },
+    {
+      "name": "1/4\" Acrylic",
+      "medium_id": "18951",
+      "sizes": [
+        {
+          "size_inches": "5x4",
+          "base_price_usd": 71.0
+        },
+        {
+          "size_inches": "7x5",
+          "base_price_usd": 102.0
+        },
+        {
+          "size_inches": "8x6",
+          "base_price_usd": 139.0
+        },
+        {
+          "size_inches": "9x7",
+          "base_price_usd": 153.0
+        },
+        {
+          "size_inches": "11x8",
+          "base_price_usd": 196.0
+        },
+        {
+          "size_inches": "12x9",
+          "base_price_usd": 265.0
+        },
+        {
+          "size_inches": "13x10",
+          "base_price_usd": 285.0
+        },
+        {
+          "size_inches": "15x11",
+          "base_price_usd": 307.0
+        },
+        {
+          "size_inches": "16x12",
+          "base_price_usd": 312.0
+        },
+        {
+          "size_inches": "17x13",
+          "base_price_usd": 331.0
+        },
+        {
+          "size_inches": "19x14",
+          "base_price_usd": 361.0
+        },
+        {
+          "size_inches": "20x15",
+          "base_price_usd": 381.0
+        },
+        {
+          "size_inches": "21x16",
+          "base_price_usd": 389.0
+        },
+        {
+          "size_inches": "23x17",
+          "base_price_usd": 461.0
+        },
+        {
+          "size_inches": "24x18",
+          "base_price_usd": 504.0
+        }
+      ]
+    }
+  ],
+  "error": "429 Client Error: Too Many Requests for url: https://www.tophandstudio.com/user_site/art_print_products/update_price",
+  "status": "INCOMPLETE \u2014 ASF returned HTTP 429; base calculations are unvalidated and exclude finishing. Do not publish as retail prices."
+}
